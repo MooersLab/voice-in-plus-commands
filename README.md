@@ -14,8 +14,31 @@ It does not do long hallucinations like chatbots, which I find to be annoying an
 
 Voice In Plus requires a modest subscription fee.
 It adds support for custom commands.
-My full version of the command library includes expansion of spoken contractions, commands to open favorite web pages, and LaTeX boilerplate.
-Because only the first may have widespread appeal and utility, these have been seggregated into a separate file.
+
+## Library contents
+My full version of the command library includes 
+
+- expansion of spoken contractions in English
+- commands to open favorite web pages
+- LaTeX boilerplate
+
+I use contractions in my speach, but I do not want them in my writing.
+I mapped all of the contractions that I could find to their expansions.
+Whenever I say a contraction, it is expanded automatically as the text is transcribed.
+
+By using a voice command to navigate to a different web page, I can keep my fingers on the keyboard.
+It is also faster to use a voice command to navigate to a desired page rather than to have to use the mouse cursor to navigate to that web page.
+
+I do most of my writing in \LaTeX.
+The overleaf.com website makes writing in \LaTeX so easy.
+Its one weakness is that it lacks support for code snippets.
+Voice In Plus offers opportunity to overcome this limitation.
+I have mapped voice commands to a number of \LaTeX code snippets.
+
+Another approach that I have discussed in the past to overcome the absence of code snippets is to send the text area from Overleaf to one of five popular text editors via the GhostText plugin for most web browsers.
+Then the code snippets available in these text editors can be inserted into the text.
+
+Because only the English contraction commmads may have more widespread appeal and utility, these have been seggregated into a separate file so that user can avoid my other commands.
 
 ## Format of the library
 The file format is comma separated values (csv).
