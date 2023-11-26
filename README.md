@@ -10,7 +10,7 @@ This is where I draft most of my writing these days before it paste it into a fi
 Voice In provides a Notepad for dication if you do not already have a favorite alternative like 750words.com.
 It also works in Overleaf, Jupyter, and Colab.
 The word error is about 2-4 percent, better than most of the alternative dictation software.
-It does not do long hallucinations of chatbots, which I find to be annoying and a waste of my time.
+It does not do long hallucinations like chatbots, which I find to be annoying and a waste of my time.
 
 Voice In Plus requires a modest subscription fee.
 It adds support for custom commands.
