@@ -29,11 +29,11 @@ Whenever I say a contraction, it is expanded automatically as the text is transc
 By using a voice command to navigate to a different web page, I can keep my fingers on the keyboard.
 It is also faster to use a voice command to navigate to a desired page rather than to have to use the mouse cursor to navigate to that web page.
 
-I do most of my writing in \LaTeX.
-The overleaf.com website makes writing in \LaTeX so easy.
+I do most of my writing in LaTeX.
+The [overleaf.com](https://www.overleaf.com/about/features-overview) website makes writing in LaTeX so easy.
 Its one weakness is that it lacks support for code snippets.
 Voice In Plus offers opportunity to overcome this limitation.
-I have mapped voice commands to a number of \LaTeX code snippets.
+I have mapped voice commands to a number of LaTeX code snippets.
 
 Another approach that I have discussed in the past to overcome the absence of code snippets is to send the text area from Overleaf to one of five popular text editors via the GhostText plugin for most web browsers.
 Then the code snippets available in these text editors can be inserted into the text.
