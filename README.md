@@ -2,7 +2,7 @@
 
 ## Purpose
 
-To help others trying to add voice-to-text to their work flow.
+To help others add voice-to-text to their work flows.
 
 ## Voice In vs Voice In Plus
 Voice In is a free plugin for Google Chrome that supports dication in the text areas of web pages.
