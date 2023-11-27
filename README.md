@@ -2,7 +2,8 @@
 
 ## Purpose
 
-To help others add voice-to-text to their work flows.
+I share this library to help others add voice-to-text to their work flows. 
+I expect that this library will be used largely to inspire the creation of commands that are more relevant to the reader.
 
 ## Voice In vs Voice In Plus
 Voice In is a free plugin for Google Chrome that supports dictation in the text areas of web pages.
