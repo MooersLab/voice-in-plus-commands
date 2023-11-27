@@ -5,6 +5,9 @@
 I share this library to help others add voice-to-text to their work flows. 
 I expect that this library will be used largely to inspire the creation of commands that are more relevant to the reader.
 
+## Disclaimer
+This is a programming tool, not an educational tool.
+
 ## Voice In vs Voice In Plus
 Voice In is a free plugin for Google Chrome that supports dictation in the text areas of web pages.
 This is where I draft most of my writing these days before pasting it into a final document.
