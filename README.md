@@ -70,3 +70,30 @@ Multi-line text fragments are possible by putting the entire chunk of text betwe
 3. Click on `bulk add` button. A simple window with a plain text area will open.
 4. Open the csv file in a text editor like VS Code. Select all, copy, and then paste them into the text area of the `bulk add` window.
 5. Click the `add commands` button below the text area. The new commands will be available for use immediately.
+
+## Related repos
+See [Voice Computing](https://github.com/MooersLab/MooersLab?tab=readme-ov-file#voice-computing) section of landing page.
+
+## Rules for developing voice commands
+
+### Pick word combinations rarely used in normal prose
+The basic rule for developing a voice command is to pick a word combination that is very unlikely to be used in one's prose.
+This choice can avoid the accidental insertion of an unintended set of words.
+For example, using the voice command "to do" to insert an org-mode TODO is pretty pointless because this phrase is used frequently in my prose.
+Instead, I came up with the command ''priority'' and then the associated alphanumeric code for the priority. 
+It is pretty unlikely that I will say the command "priority A1" in my usual prose.
+
+### Pick word combinations that do not contain other commands
+If you pick a word combination with a subset of words already assigned to another command, the commands will collide, and you will not get the intended effect.
+It is better to pick a synonym for the new command than include the old one.
+
+### Use verbs are prefaces
+I use the verb "insert" in front of the computer code that I want to insert.
+I use the verb "expand" to expand a person's first name into their full name and to expand acronyms into their full term.
+
+### Test the commands
+Like other forms of computer code, test the Voice In commands to ensure you get the intended effect.
+The speed with which you vocalize a command has a significant impact.
+You may find that you have to verbalize the command at high speed to avoid inserting just the first word of the command rather than the entire command.
+
+
