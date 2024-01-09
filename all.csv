@@ -809,7 +809,6 @@ open index page,<open:file:///Users/blaine/Documents/WebpagesBlaine/index3.html>
 open lbsf web page,<open:https://research.ouhsc.edu/research-support/core-laboratory-services/laboratory-of-biomolecular-structure-and-function>
 open mrab web page, <open:https://public.csr.nih.gov/StudySections/DBIB/MBBC/MRAB>
 open my faculty web page,<open:https://basicsciences.ouhsc.edu/bmb/Faculty/bio_details/mooers-blaine-hm-phd>
-open my google scholar profile,<open:https://scholar.google.com/citations?hl=en&user=ZReXIXoAAAAJ&view_op=list_works&sortby=pubdate>
 open my public code berg page,<open:https://codeberg.org/MooersLab>
 open my public github page,<open:https://github.com/MooersLab>
 open nih reporter,<open:https://reporter.nih.gov/>
@@ -948,3 +947,1872 @@ big tech,BibTeX
 global dot bib,global.bib
 bidtech,BibTeX
 bibtech,BibTeX
+your snippets, yasnippets
+zendo,Zenodo
+rightful tools,Writefull editing tools
+verbatim environment,"\begin{verbatim}
+
+\end{verbatim}"
+time a1 h0.25,<newline>*** TODO [#A1] (0.25) <capitalize>
+time a1 h0.5,<newline>*** TODO [#A1] (0.5) <capitalize>
+time a1 h0.75,<newline>*** TODO [#A1] (0.75) <capitalize>
+time a1 h1,<newline>*** TODO [#A1] (1) <capitalize>
+time a1 h1.25,<newline>*** TODO [#A1] (1.25) <capitalize>
+time a1 h1.5,<newline>*** TODO [#A1] (1.5) <capitalize>
+time a1 h1.75,<newline>*** TODO [#A1] (1.75) <capitalize>
+time a1 h2,<newline>*** TODO [#A1] (2) <capitalize>
+time a1 h2.25,<newline>*** TODO [#A1] (2.25) <capitalize>
+time a1 h2.5,<newline>*** TODO [#A1] (2.5) <capitalize>
+time a1 h2.75,<newline>*** TODO [#A1] (2.75) <capitalize>
+time a1 h3,<newline>*** TODO [#A1] (3) <capitalize>
+time a1 h3.25,<newline>*** TODO [#A1] (3.25) <capitalize>
+time a1 h3.5,<newline>*** TODO [#A1] (3.5) <capitalize>
+time a1 h3.75,<newline>*** TODO [#A1] (3.75) <capitalize>
+time a1 h4,<newline>*** TODO [#A1] (4) <capitalize>
+time a1 h4.25,<newline>*** TODO [#A1] (4.25) <capitalize>
+time a1 h4.5,<newline>*** TODO [#A1] (4.5) <capitalize>
+time a1 h4.75,<newline>*** TODO [#A1] (4.75) <capitalize>
+time a1 h5,<newline>*** TODO [#A1] (5) <capitalize>
+time a1 hour 0.25,<newline>*** TODO [#A1] (0.25) <capitalize>
+time a1 hour 0.5,<newline>*** TODO [#A1] (0.5) <capitalize>
+time a1 hour 0.75,<newline>*** TODO [#A1] (0.75) <capitalize>
+time a1 hour 1,<newline>*** TODO [#A1] (1) <capitalize>
+time a1 hour 1.25,<newline>*** TODO [#A1] (1.25) <capitalize>
+time a1 hour 1.5,<newline>*** TODO [#A1] (1.5) <capitalize>
+time a1 hour 1.75,<newline>*** TODO [#A1] (1.75) <capitalize>
+time a1 hour 2,<newline>*** TODO [#A1] (2) <capitalize>
+time a1 hour 2.25,<newline>*** TODO [#A1] (2.25) <capitalize>
+time a1 hour 2.5,<newline>*** TODO [#A1] (2.5) <capitalize>
+time a1 hour 2.75,<newline>*** TODO [#A1] (2.75) <capitalize>
+time a1 hour 3,<newline>*** TODO [#A1] (3) <capitalize>
+time a1 hour 3.25,<newline>*** TODO [#A1] (3.25) <capitalize>
+time a1 hour 3.5,<newline>*** TODO [#A1] (3.5) <capitalize>
+time a1 hour 3.75,<newline>*** TODO [#A1] (3.75) <capitalize>
+time a1 hour 4,<newline>*** TODO [#A1] (4) <capitalize>
+time a1 hour 4.25,<newline>*** TODO [#A1] (4.25) <capitalize>
+time a1 hour 4.5,<newline>*** TODO [#A1] (4.5) <capitalize>
+time a1 hour 4.75,<newline>*** TODO [#A1] (4.75) <capitalize>
+time a1 hour 5,<newline>*** TODO [#A1] (5) <capitalize>
+time a10 h0.25,<newline>*** TODO [#A10] (0.25) <capitalize>
+time a10 h0.5,<newline>*** TODO [#A10] (0.5) <capitalize>
+time a10 h0.75,<newline>*** TODO [#A10] (0.75) <capitalize>
+time a10 h1,<newline>*** TODO [#A10] (1) <capitalize>
+time a10 h1.25,<newline>*** TODO [#A10] (1.25) <capitalize>
+time a10 h1.5,<newline>*** TODO [#A10] (1.5) <capitalize>
+time a10 h1.75,<newline>*** TODO [#A10] (1.75) <capitalize>
+time a10 h2,<newline>*** TODO [#A10] (2) <capitalize>
+time a10 h2.25,<newline>*** TODO [#A10] (2.25) <capitalize>
+time a10 h2.5,<newline>*** TODO [#A10] (2.5) <capitalize>
+time a10 h2.75,<newline>*** TODO [#A10] (2.75) <capitalize>
+time a10 h3,<newline>*** TODO [#A10] (3) <capitalize>
+time a10 h3.25,<newline>*** TODO [#A10] (3.25) <capitalize>
+time a10 h3.5,<newline>*** TODO [#A10] (3.5) <capitalize>
+time a10 h3.75,<newline>*** TODO [#A10] (3.75) <capitalize>
+time a10 h4,<newline>*** TODO [#A10] (4) <capitalize>
+time a10 h4.25,<newline>*** TODO [#A10] (4.25) <capitalize>
+time a10 h4.5,<newline>*** TODO [#A10] (4.5) <capitalize>
+time a10 h4.75,<newline>*** TODO [#A10] (4.75) <capitalize>
+time a10 h5,<newline>*** TODO [#A10] (5) <capitalize>
+time a10 hour 0.25,<newline>*** TODO [#A10] (0.25) <capitalize>
+time a10 hour 0.5,<newline>*** TODO [#A10] (0.5) <capitalize>
+time a10 hour 0.75,<newline>*** TODO [#A10] (0.75) <capitalize>
+time a10 hour 1,<newline>*** TODO [#A10] (1) <capitalize>
+time a10 hour 1.25,<newline>*** TODO [#A10] (1.25) <capitalize>
+time a10 hour 1.5,<newline>*** TODO [#A10] (1.5) <capitalize>
+time a10 hour 1.75,<newline>*** TODO [#A10] (1.75) <capitalize>
+time a10 hour 2,<newline>*** TODO [#A10] (2) <capitalize>
+time a10 hour 2.25,<newline>*** TODO [#A10] (2.25) <capitalize>
+time a10 hour 2.5,<newline>*** TODO [#A10] (2.5) <capitalize>
+time a10 hour 2.75,<newline>*** TODO [#A10] (2.75) <capitalize>
+time a10 hour 3,<newline>*** TODO [#A10] (3) <capitalize>
+time a10 hour 3.25,<newline>*** TODO [#A10] (3.25) <capitalize>
+time a10 hour 3.5,<newline>*** TODO [#A10] (3.5) <capitalize>
+time a10 hour 3.75,<newline>*** TODO [#A10] (3.75) <capitalize>
+time a10 hour 4,<newline>*** TODO [#A10] (4) <capitalize>
+time a10 hour 4.25,<newline>*** TODO [#A10] (4.25) <capitalize>
+time a10 hour 4.5,<newline>*** TODO [#A10] (4.5) <capitalize>
+time a10 hour 4.75,<newline>*** TODO [#A10] (4.75) <capitalize>
+time a10 hour 5,<newline>*** TODO [#A10] (5) <capitalize>
+time a2 h0.25,<newline>*** TODO [#A2] (0.25) <capitalize>
+time a2 h0.5,<newline>*** TODO [#A2] (0.5) <capitalize>
+time a2 h0.75,<newline>*** TODO [#A2] (0.75) <capitalize>
+time a2 h1,<newline>*** TODO [#A2] (1) <capitalize>
+time a2 h1.25,<newline>*** TODO [#A2] (1.25) <capitalize>
+time a2 h1.5,<newline>*** TODO [#A2] (1.5) <capitalize>
+time a2 h1.75,<newline>*** TODO [#A2] (1.75) <capitalize>
+time a2 h2,<newline>*** TODO [#A2] (2) <capitalize>
+time a2 h2.25,<newline>*** TODO [#A2] (2.25) <capitalize>
+time a2 h2.5,<newline>*** TODO [#A2] (2.5) <capitalize>
+time a2 h2.75,<newline>*** TODO [#A2] (2.75) <capitalize>
+time a2 h3,<newline>*** TODO [#A2] (3) <capitalize>
+time a2 h3.25,<newline>*** TODO [#A2] (3.25) <capitalize>
+time a2 h3.5,<newline>*** TODO [#A2] (3.5) <capitalize>
+time a2 h3.75,<newline>*** TODO [#A2] (3.75) <capitalize>
+time a2 h4,<newline>*** TODO [#A2] (4) <capitalize>
+time a2 h4.25,<newline>*** TODO [#A2] (4.25) <capitalize>
+time a2 h4.5,<newline>*** TODO [#A2] (4.5) <capitalize>
+time a2 h4.75,<newline>*** TODO [#A2] (4.75) <capitalize>
+time a2 h5,<newline>*** TODO [#A2] (5) <capitalize>
+time a2 hour 0.25,<newline>*** TODO [#A2] (0.25) <capitalize>
+time a2 hour 0.5,<newline>*** TODO [#A2] (0.5) <capitalize>
+time a2 hour 0.75,<newline>*** TODO [#A2] (0.75) <capitalize>
+time a2 hour 1,<newline>*** TODO [#A2] (1) <capitalize>
+time a2 hour 1.25,<newline>*** TODO [#A2] (1.25) <capitalize>
+time a2 hour 1.5,<newline>*** TODO [#A2] (1.5) <capitalize>
+time a2 hour 1.75,<newline>*** TODO [#A2] (1.75) <capitalize>
+time a2 hour 2,<newline>*** TODO [#A2] (2) <capitalize>
+time a2 hour 2.25,<newline>*** TODO [#A2] (2.25) <capitalize>
+time a2 hour 2.5,<newline>*** TODO [#A2] (2.5) <capitalize>
+time a2 hour 2.75,<newline>*** TODO [#A2] (2.75) <capitalize>
+time a2 hour 3,<newline>*** TODO [#A2] (3) <capitalize>
+time a2 hour 3.25,<newline>*** TODO [#A2] (3.25) <capitalize>
+time a2 hour 3.5,<newline>*** TODO [#A2] (3.5) <capitalize>
+time a2 hour 3.75,<newline>*** TODO [#A2] (3.75) <capitalize>
+time a2 hour 4,<newline>*** TODO [#A2] (4) <capitalize>
+time a2 hour 4.25,<newline>*** TODO [#A2] (4.25) <capitalize>
+time a2 hour 4.5,<newline>*** TODO [#A2] (4.5) <capitalize>
+time a2 hour 4.75,<newline>*** TODO [#A2] (4.75) <capitalize>
+time a2 hour 5,<newline>*** TODO [#A2] (5) <capitalize>
+time a3 h0.25,<newline>*** TODO [#A3] (0.25) <capitalize>
+time a3 h0.5,<newline>*** TODO [#A3] (0.5) <capitalize>
+time a3 h0.75,<newline>*** TODO [#A3] (0.75) <capitalize>
+time a3 h1,<newline>*** TODO [#A3] (1) <capitalize>
+time a3 h1.25,<newline>*** TODO [#A3] (1.25) <capitalize>
+time a3 h1.5,<newline>*** TODO [#A3] (1.5) <capitalize>
+time a3 h1.75,<newline>*** TODO [#A3] (1.75) <capitalize>
+time a3 h2,<newline>*** TODO [#A3] (2) <capitalize>
+time a3 h2.25,<newline>*** TODO [#A3] (2.25) <capitalize>
+time a3 h2.5,<newline>*** TODO [#A3] (2.5) <capitalize>
+time a3 h2.75,<newline>*** TODO [#A3] (2.75) <capitalize>
+time a3 h3,<newline>*** TODO [#A3] (3) <capitalize>
+time a3 h3.25,<newline>*** TODO [#A3] (3.25) <capitalize>
+time a3 h3.5,<newline>*** TODO [#A3] (3.5) <capitalize>
+time a3 h3.75,<newline>*** TODO [#A3] (3.75) <capitalize>
+time a3 h4,<newline>*** TODO [#A3] (4) <capitalize>
+time a3 h4.25,<newline>*** TODO [#A3] (4.25) <capitalize>
+time a3 h4.5,<newline>*** TODO [#A3] (4.5) <capitalize>
+time a3 h4.75,<newline>*** TODO [#A3] (4.75) <capitalize>
+time a3 h5,<newline>*** TODO [#A3] (5) <capitalize>
+time a3 hour 0.25,<newline>*** TODO [#A3] (0.25) <capitalize>
+time a3 hour 0.5,<newline>*** TODO [#A3] (0.5) <capitalize>
+time a3 hour 0.75,<newline>*** TODO [#A3] (0.75) <capitalize>
+time a3 hour 1,<newline>*** TODO [#A3] (1) <capitalize>
+time a3 hour 1.25,<newline>*** TODO [#A3] (1.25) <capitalize>
+time a3 hour 1.5,<newline>*** TODO [#A3] (1.5) <capitalize>
+time a3 hour 1.75,<newline>*** TODO [#A3] (1.75) <capitalize>
+time a3 hour 2,<newline>*** TODO [#A3] (2) <capitalize>
+time a3 hour 2.25,<newline>*** TODO [#A3] (2.25) <capitalize>
+time a3 hour 2.5,<newline>*** TODO [#A3] (2.5) <capitalize>
+time a3 hour 2.75,<newline>*** TODO [#A3] (2.75) <capitalize>
+time a3 hour 3,<newline>*** TODO [#A3] (3) <capitalize>
+time a3 hour 3.25,<newline>*** TODO [#A3] (3.25) <capitalize>
+time a3 hour 3.5,<newline>*** TODO [#A3] (3.5) <capitalize>
+time a3 hour 3.75,<newline>*** TODO [#A3] (3.75) <capitalize>
+time a3 hour 4,<newline>*** TODO [#A3] (4) <capitalize>
+time a3 hour 4.25,<newline>*** TODO [#A3] (4.25) <capitalize>
+time a3 hour 4.5,<newline>*** TODO [#A3] (4.5) <capitalize>
+time a3 hour 4.75,<newline>*** TODO [#A3] (4.75) <capitalize>
+time a3 hour 5,<newline>*** TODO [#A3] (5) <capitalize>
+time a4 h0.25,<newline>*** TODO [#A4] (0.25) <capitalize>
+time a4 h0.5,<newline>*** TODO [#A4] (0.5) <capitalize>
+time a4 h0.75,<newline>*** TODO [#A4] (0.75) <capitalize>
+time a4 h1,<newline>*** TODO [#A4] (1) <capitalize>
+time a4 h1.25,<newline>*** TODO [#A4] (1.25) <capitalize>
+time a4 h1.5,<newline>*** TODO [#A4] (1.5) <capitalize>
+time a4 h1.75,<newline>*** TODO [#A4] (1.75) <capitalize>
+time a4 h2,<newline>*** TODO [#A4] (2) <capitalize>
+time a4 h2.25,<newline>*** TODO [#A4] (2.25) <capitalize>
+time a4 h2.5,<newline>*** TODO [#A4] (2.5) <capitalize>
+time a4 h2.75,<newline>*** TODO [#A4] (2.75) <capitalize>
+time a4 h3,<newline>*** TODO [#A4] (3) <capitalize>
+time a4 h3.25,<newline>*** TODO [#A4] (3.25) <capitalize>
+time a4 h3.5,<newline>*** TODO [#A4] (3.5) <capitalize>
+time a4 h3.75,<newline>*** TODO [#A4] (3.75) <capitalize>
+time a4 h4,<newline>*** TODO [#A4] (4) <capitalize>
+time a4 h4.25,<newline>*** TODO [#A4] (4.25) <capitalize>
+time a4 h4.5,<newline>*** TODO [#A4] (4.5) <capitalize>
+time a4 h4.75,<newline>*** TODO [#A4] (4.75) <capitalize>
+time a4 h5,<newline>*** TODO [#A4] (5) <capitalize>
+time a4 hour 0.25,<newline>*** TODO [#A4] (0.25) <capitalize>
+time a4 hour 0.5,<newline>*** TODO [#A4] (0.5) <capitalize>
+time a4 hour 0.75,<newline>*** TODO [#A4] (0.75) <capitalize>
+time a4 hour 1,<newline>*** TODO [#A4] (1) <capitalize>
+time a4 hour 1.25,<newline>*** TODO [#A4] (1.25) <capitalize>
+time a4 hour 1.5,<newline>*** TODO [#A4] (1.5) <capitalize>
+time a4 hour 1.75,<newline>*** TODO [#A4] (1.75) <capitalize>
+time a4 hour 2,<newline>*** TODO [#A4] (2) <capitalize>
+time a4 hour 2.25,<newline>*** TODO [#A4] (2.25) <capitalize>
+time a4 hour 2.5,<newline>*** TODO [#A4] (2.5) <capitalize>
+time a4 hour 2.75,<newline>*** TODO [#A4] (2.75) <capitalize>
+time a4 hour 3,<newline>*** TODO [#A4] (3) <capitalize>
+time a4 hour 3.25,<newline>*** TODO [#A4] (3.25) <capitalize>
+time a4 hour 3.5,<newline>*** TODO [#A4] (3.5) <capitalize>
+time a4 hour 3.75,<newline>*** TODO [#A4] (3.75) <capitalize>
+time a4 hour 4,<newline>*** TODO [#A4] (4) <capitalize>
+time a4 hour 4.25,<newline>*** TODO [#A4] (4.25) <capitalize>
+time a4 hour 4.5,<newline>*** TODO [#A4] (4.5) <capitalize>
+time a4 hour 4.75,<newline>*** TODO [#A4] (4.75) <capitalize>
+time a4 hour 5,<newline>*** TODO [#A4] (5) <capitalize>
+time a5 h0.25,<newline>*** TODO [#A5] (0.25) <capitalize>
+time a5 h0.5,<newline>*** TODO [#A5] (0.5) <capitalize>
+time a5 h0.75,<newline>*** TODO [#A5] (0.75) <capitalize>
+time a5 h1,<newline>*** TODO [#A5] (1) <capitalize>
+time a5 h1.25,<newline>*** TODO [#A5] (1.25) <capitalize>
+time a5 h1.5,<newline>*** TODO [#A5] (1.5) <capitalize>
+time a5 h1.75,<newline>*** TODO [#A5] (1.75) <capitalize>
+time a5 h2,<newline>*** TODO [#A5] (2) <capitalize>
+time a5 h2.25,<newline>*** TODO [#A5] (2.25) <capitalize>
+time a5 h2.5,<newline>*** TODO [#A5] (2.5) <capitalize>
+time a5 h2.75,<newline>*** TODO [#A5] (2.75) <capitalize>
+time a5 h3,<newline>*** TODO [#A5] (3) <capitalize>
+time a5 h3.25,<newline>*** TODO [#A5] (3.25) <capitalize>
+time a5 h3.5,<newline>*** TODO [#A5] (3.5) <capitalize>
+time a5 h3.75,<newline>*** TODO [#A5] (3.75) <capitalize>
+time a5 h4,<newline>*** TODO [#A5] (4) <capitalize>
+time a5 h4.25,<newline>*** TODO [#A5] (4.25) <capitalize>
+time a5 h4.5,<newline>*** TODO [#A5] (4.5) <capitalize>
+time a5 h4.75,<newline>*** TODO [#A5] (4.75) <capitalize>
+time a5 h5,<newline>*** TODO [#A5] (5) <capitalize>
+time a5 hour 0.25,<newline>*** TODO [#A5] (0.25) <capitalize>
+time a5 hour 0.5,<newline>*** TODO [#A5] (0.5) <capitalize>
+time a5 hour 0.75,<newline>*** TODO [#A5] (0.75) <capitalize>
+time a5 hour 1,<newline>*** TODO [#A5] (1) <capitalize>
+time a5 hour 1.25,<newline>*** TODO [#A5] (1.25) <capitalize>
+time a5 hour 1.5,<newline>*** TODO [#A5] (1.5) <capitalize>
+time a5 hour 1.75,<newline>*** TODO [#A5] (1.75) <capitalize>
+time a5 hour 2,<newline>*** TODO [#A5] (2) <capitalize>
+time a5 hour 2.25,<newline>*** TODO [#A5] (2.25) <capitalize>
+time a5 hour 2.5,<newline>*** TODO [#A5] (2.5) <capitalize>
+time a5 hour 2.75,<newline>*** TODO [#A5] (2.75) <capitalize>
+time a5 hour 3,<newline>*** TODO [#A5] (3) <capitalize>
+time a5 hour 3.25,<newline>*** TODO [#A5] (3.25) <capitalize>
+time a5 hour 3.5,<newline>*** TODO [#A5] (3.5) <capitalize>
+time a5 hour 3.75,<newline>*** TODO [#A5] (3.75) <capitalize>
+time a5 hour 4,<newline>*** TODO [#A5] (4) <capitalize>
+time a5 hour 4.25,<newline>*** TODO [#A5] (4.25) <capitalize>
+time a5 hour 4.5,<newline>*** TODO [#A5] (4.5) <capitalize>
+time a5 hour 4.75,<newline>*** TODO [#A5] (4.75) <capitalize>
+time a5 hour 5,<newline>*** TODO [#A5] (5) <capitalize>
+time a6 h0.25,<newline>*** TODO [#A6] (0.25) <capitalize>
+time a6 h0.5,<newline>*** TODO [#A6] (0.5) <capitalize>
+time a6 h0.75,<newline>*** TODO [#A6] (0.75) <capitalize>
+time a6 h1,<newline>*** TODO [#A6] (1) <capitalize>
+time a6 h1.25,<newline>*** TODO [#A6] (1.25) <capitalize>
+time a6 h1.5,<newline>*** TODO [#A6] (1.5) <capitalize>
+time a6 h1.75,<newline>*** TODO [#A6] (1.75) <capitalize>
+time a6 h2,<newline>*** TODO [#A6] (2) <capitalize>
+time a6 h2.25,<newline>*** TODO [#A6] (2.25) <capitalize>
+time a6 h2.5,<newline>*** TODO [#A6] (2.5) <capitalize>
+time a6 h2.75,<newline>*** TODO [#A6] (2.75) <capitalize>
+time a6 h3,<newline>*** TODO [#A6] (3) <capitalize>
+time a6 h3.25,<newline>*** TODO [#A6] (3.25) <capitalize>
+time a6 h3.5,<newline>*** TODO [#A6] (3.5) <capitalize>
+time a6 h3.75,<newline>*** TODO [#A6] (3.75) <capitalize>
+time a6 h4,<newline>*** TODO [#A6] (4) <capitalize>
+time a6 h4.25,<newline>*** TODO [#A6] (4.25) <capitalize>
+time a6 h4.5,<newline>*** TODO [#A6] (4.5) <capitalize>
+time a6 h4.75,<newline>*** TODO [#A6] (4.75) <capitalize>
+time a6 h5,<newline>*** TODO [#A6] (5) <capitalize
+time a6 hour 0.25,<newline>*** TODO [#A6] (0.25) <capitalize>
+time a6 hour 0.5,<newline>*** TODO [#A6] (0.5) <capitalize>
+time a6 hour 0.75,<newline>*** TODO [#A6] (0.75) <capitalize>
+time a6 hour 1,<newline>*** TODO [#A6] (1) <capitalize>
+time a6 hour 1.25,<newline>*** TODO [#A6] (1.25) <capitalize>
+time a6 hour 1.5,<newline>*** TODO [#A6] (1.5) <capitalize>
+time a6 hour 1.75,<newline>*** TODO [#A6] (1.75) <capitalize>
+time a6 hour 2,<newline>*** TODO [#A6] (2) <capitalize>
+time a6 hour 2.25,<newline>*** TODO [#A6] (2.25) <capitalize>
+time a6 hour 2.5,<newline>*** TODO [#A6] (2.5) <capitalize>
+time a6 hour 2.75,<newline>*** TODO [#A6] (2.75) <capitalize>
+time a6 hour 3,<newline>*** TODO [#A6] (3) <capitalize>
+time a6 hour 3.25,<newline>*** TODO [#A6] (3.25) <capitalize>
+time a6 hour 3.5,<newline>*** TODO [#A6] (3.5) <capitalize>
+time a6 hour 3.75,<newline>*** TODO [#A6] (3.75) <capitalize>
+time a6 hour 4,<newline>*** TODO [#A6] (4) <capitalize>
+time a6 hour 4.25,<newline>*** TODO [#A6] (4.25) <capitalize>
+time a6 hour 4.5,<newline>*** TODO [#A6] (4.5) <capitalize>
+time a6 hour 4.75,<newline>*** TODO [#A6] (4.75) <capitalize>
+time a6 hour 5,<newline>*** TODO [#A6] (5) <capitalize
+time a7 h0.25,<newline>*** TODO [#A7] (0.25) <capitalize>
+time a7 h0.5,<newline>*** TODO [#A7] (0.5) <capitalize>
+time a7 h0.75,<newline>*** TODO [#A7] (0.75) <capitalize>
+time a7 h1,<newline>*** TODO [#A7] (1) <capitalize>
+time a7 h1.25,<newline>*** TODO [#A7] (1.25) <capitalize>
+time a7 h1.5,<newline>*** TODO [#A7] (1.5) <capitalize>
+time a7 h1.75,<newline>*** TODO [#A7] (1.75) <capitalize>
+time a7 h2,<newline>*** TODO [#A7] (2) <capitalize>
+time a7 h2.25,<newline>*** TODO [#A7] (2.25) <capitalize>
+time a7 h2.5,<newline>*** TODO [#A7] (2.5) <capitalize>
+time a7 h2.75,<newline>*** TODO [#A7] (2.75) <capitalize>
+time a7 h3,<newline>*** TODO [#A7] (3) <capitalize>
+time a7 h3.25,<newline>*** TODO [#A7] (3.25) <capitalize>
+time a7 h3.5,<newline>*** TODO [#A7] (3.5) <capitalize>
+time a7 h3.75,<newline>*** TODO [#A7] (3.75) <capitalize>
+time a7 h4,<newline>*** TODO [#A7] (4) <capitalize>
+time a7 h4.25,<newline>*** TODO [#A7] (4.25) <capitalize>
+time a7 h4.5,<newline>*** TODO [#A7] (4.5) <capitalize>
+time a7 h4.75,<newline>*** TODO [#A7] (4.75) <capitalize>
+time a7 h5,<newline>*** TODO [#A7] (5) <capitalize
+time a7 hour 0.25,<newline>*** TODO [#A7] (0.25) <capitalize>
+time a7 hour 0.5,<newline>*** TODO [#A7] (0.5) <capitalize>
+time a7 hour 0.75,<newline>*** TODO [#A7] (0.75) <capitalize>
+time a7 hour 1,<newline>*** TODO [#A7] (1) <capitalize>
+time a7 hour 1.25,<newline>*** TODO [#A7] (1.25) <capitalize>
+time a7 hour 1.5,<newline>*** TODO [#A7] (1.5) <capitalize>
+time a7 hour 1.75,<newline>*** TODO [#A7] (1.75) <capitalize>
+time a7 hour 2,<newline>*** TODO [#A7] (2) <capitalize>
+time a7 hour 2.25,<newline>*** TODO [#A7] (2.25) <capitalize>
+time a7 hour 2.5,<newline>*** TODO [#A7] (2.5) <capitalize>
+time a7 hour 2.75,<newline>*** TODO [#A7] (2.75) <capitalize>
+time a7 hour 3,<newline>*** TODO [#A7] (3) <capitalize>
+time a7 hour 3.25,<newline>*** TODO [#A7] (3.25) <capitalize>
+time a7 hour 3.5,<newline>*** TODO [#A7] (3.5) <capitalize>
+time a7 hour 3.75,<newline>*** TODO [#A7] (3.75) <capitalize>
+time a7 hour 4,<newline>*** TODO [#A7] (4) <capitalize>
+time a7 hour 4.25,<newline>*** TODO [#A7] (4.25) <capitalize>
+time a7 hour 4.5,<newline>*** TODO [#A7] (4.5) <capitalize>
+time a7 hour 4.75,<newline>*** TODO [#A7] (4.75) <capitalize>
+time a7 hour 5,<newline>*** TODO [#A7] (5) <capitalize
+time a8 h0.25,<newline>*** TODO [#A8] (0.25) <capitalize>
+time a8 h0.5,<newline>*** TODO [#A8] (0.5) <capitalize>
+time a8 h0.75,<newline>*** TODO [#A8] (0.75) <capitalize>
+time a8 h1,<newline>*** TODO [#A8] (1) <capitalize>
+time a8 h1.25,<newline>*** TODO [#A8] (1.25) <capitalize>
+time a8 h1.5,<newline>*** TODO [#A8] (1.5) <capitalize>
+time a8 h1.75,<newline>*** TODO [#A8] (1.75) <capitalize>
+time a8 h2,<newline>*** TODO [#A8] (2) <capitalize>
+time a8 h2.25,<newline>*** TODO [#A8] (2.25) <capitalize>
+time a8 h2.5,<newline>*** TODO [#A8] (2.5) <capitalize>
+time a8 h2.75,<newline>*** TODO [#A8] (2.75) <capitalize>
+time a8 h3,<newline>*** TODO [#A8] (3) <capitalize>
+time a8 h3.25,<newline>*** TODO [#A8] (3.25) <capitalize>
+time a8 h3.5,<newline>*** TODO [#A8] (3.5) <capitalize>
+time a8 h3.75,<newline>*** TODO [#A8] (3.75) <capitalize>
+time a8 h4,<newline>*** TODO [#A8] (4) <capitalize>
+time a8 h4.25,<newline>*** TODO [#A8] (4.25) <capitalize>
+time a8 h4.5,<newline>*** TODO [#A8] (4.5) <capitalize>
+time a8 h4.75,<newline>*** TODO [#A8] (4.75) <capitalize>
+time a8 h5,<newline>*** TODO [#A8] (5) <capitalize
+time a8 hour 0.25,<newline>*** TODO [#A8] (0.25) <capitalize>
+time a8 hour 0.5,<newline>*** TODO [#A8] (0.5) <capitalize>
+time a8 hour 0.75,<newline>*** TODO [#A8] (0.75) <capitalize>
+time a8 hour 1,<newline>*** TODO [#A8] (1) <capitalize>
+time a8 hour 1.25,<newline>*** TODO [#A8] (1.25) <capitalize>
+time a8 hour 1.5,<newline>*** TODO [#A8] (1.5) <capitalize>
+time a8 hour 1.75,<newline>*** TODO [#A8] (1.75) <capitalize>
+time a8 hour 2,<newline>*** TODO [#A8] (2) <capitalize>
+time a8 hour 2.25,<newline>*** TODO [#A8] (2.25) <capitalize>
+time a8 hour 2.5,<newline>*** TODO [#A8] (2.5) <capitalize>
+time a8 hour 2.75,<newline>*** TODO [#A8] (2.75) <capitalize>
+time a8 hour 3,<newline>*** TODO [#A8] (3) <capitalize>
+time a8 hour 3.25,<newline>*** TODO [#A8] (3.25) <capitalize>
+time a8 hour 3.5,<newline>*** TODO [#A8] (3.5) <capitalize>
+time a8 hour 3.75,<newline>*** TODO [#A8] (3.75) <capitalize>
+time a8 hour 4,<newline>*** TODO [#A8] (4) <capitalize>
+time a8 hour 4.25,<newline>*** TODO [#A8] (4.25) <capitalize>
+time a8 hour 4.5,<newline>*** TODO [#A8] (4.5) <capitalize>
+time a8 hour 4.75,<newline>*** TODO [#A8] (4.75) <capitalize>
+time a8 hour 5,<newline>*** TODO [#A8] (5) <capitalize
+time a9 h0.25,<newline>*** TODO [#A9] (0.25) <capitalize>
+time a9 h0.5,<newline>*** TODO [#A9](0.5) <capitalize>
+time a9 h0.75,<newline>*** TODO [#A9] (0.75) <capitalize>
+time a9 h1,<newline>*** TODO [#A9] (1) <capitalize>
+time a9 h1.25,<newline>*** TODO [#A9] (1.25) <capitalize>
+time a9 h1.5,<newline>*** TODO [#A9] (1.5) <capitalize>
+time a9 h1.75,<newline>*** TODO [#A9] (1.75) <capitalize>
+time a9 h2,<newline>*** TODO [#A9] (2) <capitalize>
+time a9 h2.25,<newline>*** TODO [#A9] (2.25) <capitalize>
+time a9 h2.5,<newline>*** TODO [#A9] (2.5) <capitalize>
+time a9 h2.75,<newline>*** TODO [#A9] (2.75) <capitalize>
+time a9 h3,<newline>*** TODO [#A9] (3) <capitalize>
+time a9 h3.25,<newline>*** TODO [#A9] (3.25) <capitalize>
+time a9 h3.5,<newline>*** TODO [#A9] (3.5) <capitalize>
+time a9 h3.75,<newline>*** TODO [#A9] (3.75) <capitalize>
+time a9 h4,<newline>*** TODO [#A9] (4) <capitalize>
+time a9 h4.25,<newline>*** TODO [#A9] (4.25) <capitalize>
+time a9 h4.5,<newline>*** TODO [#A9] (4.5) <capitalize>
+time a9 h4.75,<newline>*** TODO [#A9] (4.75) <capitalize>
+time a9 h5,<newline>*** TODO [#A9] (5) <capitalize
+time a9 hour 0.25,<newline>*** TODO [#A9] (0.25) <capitalize>
+time a9 hour 0.5,<newline>*** TODO [#A9](0.5) <capitalize>
+time a9 hour 0.75,<newline>*** TODO [#A9] (0.75) <capitalize>
+time a9 hour 1,<newline>*** TODO [#A9] (1) <capitalize>
+time a9 hour 1.25,<newline>*** TODO [#A9] (1.25) <capitalize>
+time a9 hour 1.5,<newline>*** TODO [#A9] (1.5) <capitalize>
+time a9 hour 1.75,<newline>*** TODO [#A9] (1.75) <capitalize>
+time a9 hour 2,<newline>*** TODO [#A9] (2) <capitalize>
+time a9 hour 2.25,<newline>*** TODO [#A9] (2.25) <capitalize>
+time a9 hour 2.5,<newline>*** TODO [#A9] (2.5) <capitalize>
+time a9 hour 2.75,<newline>*** TODO [#A9] (2.75) <capitalize>
+time a9 hour 3,<newline>*** TODO [#A9] (3) <capitalize>
+time a9 hour 3.25,<newline>*** TODO [#A9] (3.25) <capitalize>
+time a9 hour 3.5,<newline>*** TODO [#A9] (3.5) <capitalize>
+time a9 hour 3.75,<newline>*** TODO [#A9] (3.75) <capitalize>
+time a9 hour 4,<newline>*** TODO [#A9] (4) <capitalize>
+time a9 hour 4.25,<newline>*** TODO [#A9] (4.25) <capitalize>
+time a9 hour 4.5,<newline>*** TODO [#A9] (4.5) <capitalize>
+time a9 hour 4.75,<newline>*** TODO [#A9] (4.75) <capitalize>
+time a9 hour 5,<newline>*** TODO [#A9] (5) <capitalize
+time air 1 harp 2,<newline>*** TODO [#A1] (2) <capitalize>
+time air 1 part 2,<newline>*** TODO [#A1] (2) <capitalize>
+time air one part two,<newline>*** TODO [#A1] (2) <capitalize>
+time b1 h0.25,<newline>*** TODO [#B11] (0.25) <capitalize>
+time b1 h0.5,<newline>*** TODO [#B11] (0.5) <capitalize>
+time b1 h0.75,<newline>*** TODO [#B11] (0.75) <capitalize>
+time b1 h1,<newline>*** TODO [#B11] (1) <capitalize>
+time b1 h1.25,<newline>*** TODO [#B11] (1.25) <capitalize>
+time b1 h1.5,<newline>*** TODO [#B11] (1.5) <capitalize>
+time b1 h1.75,<newline>*** TODO [#B11] (1.75) <capitalize>
+time b1 h2,<newline>*** TODO [#B11] (2) <capitalize>
+time b1 h2.25,<newline>*** TODO [#B11] (2.25) <capitalize>
+time b1 h2.5,<newline>*** TODO [#B11] (2.5) <capitalize>
+time b1 h2.75,<newline>*** TODO [#B11] (2.75) <capitalize>
+time b1 h3,<newline>*** TODO [#B11] (3) <capitalize>
+time b1 h3.25,<newline>*** TODO [#B11] (3.25) <capitalize>
+time b1 h3.5,<newline>*** TODO [#B11] (3.5) <capitalize>
+time b1 h3.75,<newline>*** TODO [#B11] (3.75) <capitalize>
+time b1 h4,<newline>*** TODO [#B11] (4) <capitalize>
+time b1 h4.25,<newline>*** TODO [#B11] (4.25) <capitalize>
+time b1 h4.5,<newline>*** TODO [#B11] (4.5) <capitalize>
+time b1 h4.75,<newline>*** TODO [#B11] (4.75) <capitalize>
+time b1 h5,<newline>*** TODO [#B11] (5) <capitalize>
+time b1 hour 0.25,<newline>*** TODO [#B11] (0.25) <capitalize>
+time b1 hour 0.5,<newline>*** TODO [#B11] (0.5) <capitalize>
+time b1 hour 0.75,<newline>*** TODO [#B11] (0.75) <capitalize>
+time b1 hour 1,<newline>*** TODO [#B11] (1) <capitalize>
+time b1 hour 1.25,<newline>*** TODO [#B11] (1.25) <capitalize>
+time b1 hour 1.5,<newline>*** TODO [#B11] (1.5) <capitalize>
+time b1 hour 1.75,<newline>*** TODO [#B11] (1.75) <capitalize>
+time b1 hour 2,<newline>*** TODO [#B11] (2) <capitalize>
+time b1 hour 2.25,<newline>*** TODO [#B11] (2.25) <capitalize>
+time b1 hour 2.5,<newline>*** TODO [#B11] (2.5) <capitalize>
+time b1 hour 2.75,<newline>*** TODO [#B11] (2.75) <capitalize>
+time b1 hour 3,<newline>*** TODO [#B11] (3) <capitalize>
+time b1 hour 3.25,<newline>*** TODO [#B11] (3.25) <capitalize>
+time b1 hour 3.5,<newline>*** TODO [#B11] (3.5) <capitalize>
+time b1 hour 3.75,<newline>*** TODO [#B11] (3.75) <capitalize>
+time b1 hour 4,<newline>*** TODO [#B11] (4) <capitalize>
+time b1 hour 4.25,<newline>*** TODO [#B11] (4.25) <capitalize>
+time b1 hour 4.5,<newline>*** TODO [#B11] (4.5) <capitalize>
+time b1 hour 4.75,<newline>*** TODO [#B11] (4.75) <capitalize>
+time b1 hour 5,<newline>*** TODO [#B11] (5) <capitalize>
+time b10 h0.25,<newline>*** TODO [#B20] (0.25) <capitalize>
+time b10 h0.5,<newline>*** TODO [#B20] (0.5) <capitalize>
+time b10 h0.75,<newline>*** TODO [#B20] (0.75) <capitalize>
+time b10 h1,<newline>*** TODO [#B20] (1) <capitalize>
+time b10 h1.25,<newline>*** TODO [#B20] (1.25) <capitalize>
+time b10 h1.5,<newline>*** TODO [#B20] (1.5) <capitalize>
+time b10 h1.75,<newline>*** TODO [#B20] (1.75) <capitalize>
+time b10 h2,<newline>*** TODO [#B20] (2) <capitalize>
+time b10 h2.25,<newline>*** TODO [#B20] (2.25) <capitalize>
+time b10 h2.5,<newline>*** TODO [#B20] (2.5) <capitalize>
+time b10 h2.75,<newline>*** TODO [#B20] (2.75) <capitalize>
+time b10 h3,<newline>*** TODO [#B20] (3) <capitalize>
+time b10 h3.25,<newline>*** TODO [#B20] (3.25) <capitalize>
+time b10 h3.5,<newline>*** TODO [#B20] (3.5) <capitalize>
+time b10 h3.75,<newline>*** TODO [#B20] (3.75) <capitalize>
+time b10 h4,<newline>*** TODO [#B20] (4) <capitalize>
+time b10 h4.25,<newline>*** TODO [#B20] (4.25) <capitalize>
+time b10 h4.5,<newline>*** TODO [#B20] (4.5) <capitalize>
+time b10 h4.75,<newline>*** TODO [#B20] (4.75) <capitalize>
+time b10 h5,<newline>*** TODO [#B20] (5) <capitalize>
+time b10 hour 0.25,<newline>*** TODO [#B20] (0.25) <capitalize>
+time b10 hour 0.5,<newline>*** TODO [#B20] (0.5) <capitalize>
+time b10 hour 0.75,<newline>*** TODO [#B20] (0.75) <capitalize>
+time b10 hour 1,<newline>*** TODO [#B20] (1) <capitalize>
+time b10 hour 1.25,<newline>*** TODO [#B20] (1.25) <capitalize>
+time b10 hour 1.5,<newline>*** TODO [#B20] (1.5) <capitalize>
+time b10 hour 1.75,<newline>*** TODO [#B20] (1.75) <capitalize>
+time b10 hour 2,<newline>*** TODO [#B20] (2) <capitalize>
+time b10 hour 2.25,<newline>*** TODO [#B20] (2.25) <capitalize>
+time b10 hour 2.5,<newline>*** TODO [#B20] (2.5) <capitalize>
+time b10 hour 2.75,<newline>*** TODO [#B20] (2.75) <capitalize>
+time b10 hour 3,<newline>*** TODO [#B20] (3) <capitalize>
+time b10 hour 3.25,<newline>*** TODO [#B20] (3.25) <capitalize>
+time b10 hour 3.5,<newline>*** TODO [#B20] (3.5) <capitalize>
+time b10 hour 3.75,<newline>*** TODO [#B20] (3.75) <capitalize>
+time b10 hour 4,<newline>*** TODO [#B20] (4) <capitalize>
+time b10 hour 4.25,<newline>*** TODO [#B20] (4.25) <capitalize>
+time b10 hour 4.5,<newline>*** TODO [#B20] (4.5) <capitalize>
+time b10 hour 4.75,<newline>*** TODO [#B20] (4.75) <capitalize>
+time b10 hour 5,<newline>*** TODO [#B20] (5) <capitalize>
+time b2 h0.25,<newline>*** TODO [#B12] (0.25) <capitalize>
+time b2 h0.5,<newline>*** TODO [#B12] (0.5) <capitalize>
+time b2 h0.75,<newline>*** TODO [#B12] (0.75) <capitalize>
+time b2 h1,<newline>*** TODO [#B12] (1) <capitalize>
+time b2 h1.25,<newline>*** TODO [#B12] (1.25) <capitalize>
+time b2 h1.5,<newline>*** TODO [#B12] (1.5) <capitalize>
+time b2 h1.75,<newline>*** TODO [#B12] (1.75) <capitalize>
+time b2 h2,<newline>*** TODO [#B12] (2) <capitalize>
+time b2 h2.25,<newline>*** TODO [#B12] (2.25) <capitalize>
+time b2 h2.5,<newline>*** TODO [#B12] (2.5) <capitalize>
+time b2 h2.75,<newline>*** TODO [#B12] (2.75) <capitalize>
+time b2 h3,<newline>*** TODO [#B12] (3) <capitalize>
+time b2 h3.25,<newline>*** TODO [#B12] (3.25) <capitalize>
+time b2 h3.5,<newline>*** TODO [#B12] (3.5) <capitalize>
+time b2 h3.75,<newline>*** TODO [#B12] (3.75) <capitalize>
+time b2 h4,<newline>*** TODO [#B12] (4) <capitalize>
+time b2 h4.25,<newline>*** TODO [#B12] (4.25) <capitalize>
+time b2 h4.5,<newline>*** TODO [#B12] (4.5) <capitalize>
+time b2 h4.75,<newline>*** TODO [#B12] (4.75) <capitalize>
+time b2 h5,<newline>*** TODO [#B12] (5) <capitalize>
+time b2 hour 0.25,<newline>*** TODO [#B12] (0.25) <capitalize>
+time b2 hour 0.5,<newline>*** TODO [#B12] (0.5) <capitalize>
+time b2 hour 0.75,<newline>*** TODO [#B12] (0.75) <capitalize>
+time b2 hour 1,<newline>*** TODO [#B12] (1) <capitalize>
+time b2 hour 1.25,<newline>*** TODO [#B12] (1.25) <capitalize>
+time b2 hour 1.5,<newline>*** TODO [#B12] (1.5) <capitalize>
+time b2 hour 1.75,<newline>*** TODO [#B12] (1.75) <capitalize>
+time b2 hour 2,<newline>*** TODO [#B12] (2) <capitalize>
+time b2 hour 2.25,<newline>*** TODO [#B12] (2.25) <capitalize>
+time b2 hour 2.5,<newline>*** TODO [#B12] (2.5) <capitalize>
+time b2 hour 2.75,<newline>*** TODO [#B12] (2.75) <capitalize>
+time b2 hour 3,<newline>*** TODO [#B12] (3) <capitalize>
+time b2 hour 3.25,<newline>*** TODO [#B12] (3.25) <capitalize>
+time b2 hour 3.5,<newline>*** TODO [#B12] (3.5) <capitalize>
+time b2 hour 3.75,<newline>*** TODO [#B12] (3.75) <capitalize>
+time b2 hour 4,<newline>*** TODO [#B12] (4) <capitalize>
+time b2 hour 4.25,<newline>*** TODO [#B12] (4.25) <capitalize>
+time b2 hour 4.5,<newline>*** TODO [#B12] (4.5) <capitalize>
+time b2 hour 4.75,<newline>*** TODO [#B12] (4.75) <capitalize>
+time b2 hour 5,<newline>*** TODO [#B12] (5) <capitalize>
+time b3 h0.25,<newline>*** TODO [#B13] (0.25) <capitalize>
+time b3 h0.5,<newline>*** TODO [#B13] (0.5) <capitalize>
+time b3 h0.75,<newline>*** TODO [#B13] (0.75) <capitalize>
+time b3 h1,<newline>*** TODO [#B13] (1) <capitalize>
+time b3 h1.25,<newline>*** TODO [#B13] (1.25) <capitalize>
+time b3 h1.5,<newline>*** TODO [#B13] (1.5) <capitalize>
+time b3 h1.75,<newline>*** TODO [#B13] (1.75) <capitalize>
+time b3 h2,<newline>*** TODO [#B13] (2) <capitalize>
+time b3 h2.25,<newline>*** TODO [#B13] (2.25) <capitalize>
+time b3 h2.5,<newline>*** TODO [#B13] (2.5) <capitalize>
+time b3 h2.75,<newline>*** TODO [#B13] (2.75) <capitalize>
+time b3 h3,<newline>*** TODO [#B13] (3) <capitalize>
+time b3 h3.25,<newline>*** TODO [#B13] (3.25) <capitalize>
+time b3 h3.5,<newline>*** TODO [#B13] (3.5) <capitalize>
+time b3 h3.75,<newline>*** TODO [#B13] (3.75) <capitalize>
+time b3 h4,<newline>*** TODO [#B13] (4) <capitalize>
+time b3 h4.25,<newline>*** TODO [#B13] (4.25) <capitalize>
+time b3 h4.5,<newline>*** TODO [#B13] (4.5) <capitalize>
+time b3 h4.75,<newline>*** TODO [#B13] (4.75) <capitalize>
+time b3 h5,<newline>*** TODO [#B13] (5) <capitalize>
+time b3 hour 0.25,<newline>*** TODO [#B13] (0.25) <capitalize>
+time b3 hour 0.5,<newline>*** TODO [#B13] (0.5) <capitalize>
+time b3 hour 0.75,<newline>*** TODO [#B13] (0.75) <capitalize>
+time b3 hour 1,<newline>*** TODO [#B13] (1) <capitalize>
+time b3 hour 1.25,<newline>*** TODO [#B13] (1.25) <capitalize>
+time b3 hour 1.5,<newline>*** TODO [#B13] (1.5) <capitalize>
+time b3 hour 1.75,<newline>*** TODO [#B13] (1.75) <capitalize>
+time b3 hour 2,<newline>*** TODO [#B13] (2) <capitalize>
+time b3 hour 2.25,<newline>*** TODO [#B13] (2.25) <capitalize>
+time b3 hour 2.5,<newline>*** TODO [#B13] (2.5) <capitalize>
+time b3 hour 2.75,<newline>*** TODO [#B13] (2.75) <capitalize>
+time b3 hour 3,<newline>*** TODO [#B13] (3) <capitalize>
+time b3 hour 3.25,<newline>*** TODO [#B13] (3.25) <capitalize>
+time b3 hour 3.5,<newline>*** TODO [#B13] (3.5) <capitalize>
+time b3 hour 3.75,<newline>*** TODO [#B13] (3.75) <capitalize>
+time b3 hour 4,<newline>*** TODO [#B13] (4) <capitalize>
+time b3 hour 4.25,<newline>*** TODO [#B13] (4.25) <capitalize>
+time b3 hour 4.5,<newline>*** TODO [#B13] (4.5) <capitalize>
+time b3 hour 4.75,<newline>*** TODO [#B13] (4.75) <capitalize>
+time b3 hour 5,<newline>*** TODO [#B13] (5) <capitalize>
+time b4 h0.25,<newline>*** TODO [#B14] (0.25) <capitalize>
+time b4 h0.5,<newline>*** TODO [#B14] (0.5) <capitalize>
+time b4 h0.75,<newline>*** TODO [#B14] (0.75) <capitalize>
+time b4 h1,<newline>*** TODO [#B14] (1) <capitalize>
+time b4 h1.25,<newline>*** TODO [#B14] (1.25) <capitalize>
+time b4 h1.5,<newline>*** TODO [#B14] (1.5) <capitalize>
+time b4 h1.75,<newline>*** TODO [#B14] (1.75) <capitalize>
+time b4 h2,<newline>*** TODO [#B14] (2) <capitalize>
+time b4 h2.25,<newline>*** TODO [#B14] (2.25) <capitalize>
+time b4 h2.5,<newline>*** TODO [#B14] (2.5) <capitalize>
+time b4 h2.75,<newline>*** TODO [#B14] (2.75) <capitalize>
+time b4 h3,<newline>*** TODO [#B14] (3) <capitalize>
+time b4 h3.25,<newline>*** TODO [#B14] (3.25) <capitalize>
+time b4 h3.5,<newline>*** TODO [#B14] (3.5) <capitalize>
+time b4 h3.75,<newline>*** TODO [#B14] (3.75) <capitalize>
+time b4 h4,<newline>*** TODO [#B14] (4) <capitalize>
+time b4 h4.25,<newline>*** TODO [#B14] (4.25) <capitalize>
+time b4 h4.5,<newline>*** TODO [#B14] (4.5) <capitalize>
+time b4 h4.75,<newline>*** TODO [#B14] (4.75) <capitalize>
+time b4 h5,<newline>*** TODO [#B14] (5) <capitalize>
+time b4 hour 0.25,<newline>*** TODO [#B14] (0.25) <capitalize>
+time b4 hour 0.5,<newline>*** TODO [#B14] (0.5) <capitalize>
+time b4 hour 0.75,<newline>*** TODO [#B14] (0.75) <capitalize>
+time b4 hour 1,<newline>*** TODO [#B14] (1) <capitalize>
+time b4 hour 1.25,<newline>*** TODO [#B14] (1.25) <capitalize>
+time b4 hour 1.5,<newline>*** TODO [#B14] (1.5) <capitalize>
+time b4 hour 1.75,<newline>*** TODO [#B14] (1.75) <capitalize>
+time b4 hour 2,<newline>*** TODO [#B14] (2) <capitalize>
+time b4 hour 2.25,<newline>*** TODO [#B14] (2.25) <capitalize>
+time b4 hour 2.5,<newline>*** TODO [#B14] (2.5) <capitalize>
+time b4 hour 2.75,<newline>*** TODO [#B14] (2.75) <capitalize>
+time b4 hour 3,<newline>*** TODO [#B14] (3) <capitalize>
+time b4 hour 3.25,<newline>*** TODO [#B14] (3.25) <capitalize>
+time b4 hour 3.5,<newline>*** TODO [#B14] (3.5) <capitalize>
+time b4 hour 3.75,<newline>*** TODO [#B14] (3.75) <capitalize>
+time b4 hour 4,<newline>*** TODO [#B14] (4) <capitalize>
+time b4 hour 4.25,<newline>*** TODO [#B14] (4.25) <capitalize>
+time b4 hour 4.5,<newline>*** TODO [#B14] (4.5) <capitalize>
+time b4 hour 4.75,<newline>*** TODO [#B14] (4.75) <capitalize>
+time b4 hour 5,<newline>*** TODO [#B14] (5) <capitalize>
+time b5 h0.25,<newline>*** TODO [#B15] (0.25) <capitalize>
+time b5 h0.5,<newline>*** TODO [#B15] (0.5) <capitalize>
+time b5 h0.75,<newline>*** TODO [#B15] (0.75) <capitalize>
+time b5 h1,<newline>*** TODO [#B15] (1) <capitalize>
+time b5 h1.25,<newline>*** TODO [#B15] (1.25) <capitalize>
+time b5 h1.5,<newline>*** TODO [#B15] (1.5) <capitalize>
+time b5 h1.75,<newline>*** TODO [#B15] (1.75) <capitalize>
+time b5 h2,<newline>*** TODO [#B15] (2) <capitalize>
+time b5 h2.25,<newline>*** TODO [#B15] (2.25) <capitalize>
+time b5 h2.5,<newline>*** TODO [#B15] (2.5) <capitalize>
+time b5 h2.75,<newline>*** TODO [#B15] (2.75) <capitalize>
+time b5 h3,<newline>*** TODO [#B15] (3) <capitalize>
+time b5 h3.25,<newline>*** TODO [#B15] (3.25) <capitalize>
+time b5 h3.5,<newline>*** TODO [#B15] (3.5) <capitalize>
+time b5 h3.75,<newline>*** TODO [#B15] (3.75) <capitalize>
+time b5 h4,<newline>*** TODO [#B15] (4) <capitalize>
+time b5 h4.25,<newline>*** TODO [#B15] (4.25) <capitalize>
+time b5 h4.5,<newline>*** TODO [#B15] (4.5) <capitalize>
+time b5 h4.75,<newline>*** TODO [#B15] (4.75) <capitalize>
+time b5 h5,<newline>*** TODO [#B15] (5) <capitalize>
+time b5 hour 0.25,<newline>*** TODO [#B15] (0.25) <capitalize>
+time b5 hour 0.5,<newline>*** TODO [#B15] (0.5) <capitalize>
+time b5 hour 0.75,<newline>*** TODO [#B15] (0.75) <capitalize>
+time b5 hour 1,<newline>*** TODO [#B15] (1) <capitalize>
+time b5 hour 1.25,<newline>*** TODO [#B15] (1.25) <capitalize>
+time b5 hour 1.5,<newline>*** TODO [#B15] (1.5) <capitalize>
+time b5 hour 1.75,<newline>*** TODO [#B15] (1.75) <capitalize>
+time b5 hour 2,<newline>*** TODO [#B15] (2) <capitalize>
+time b5 hour 2.25,<newline>*** TODO [#B15] (2.25) <capitalize>
+time b5 hour 2.5,<newline>*** TODO [#B15] (2.5) <capitalize>
+time b5 hour 2.75,<newline>*** TODO [#B15] (2.75) <capitalize>
+time b5 hour 3,<newline>*** TODO [#B15] (3) <capitalize>
+time b5 hour 3.25,<newline>*** TODO [#B15] (3.25) <capitalize>
+time b5 hour 3.5,<newline>*** TODO [#B15] (3.5) <capitalize>
+time b5 hour 3.75,<newline>*** TODO [#B15] (3.75) <capitalize>
+time b5 hour 4,<newline>*** TODO [#B15] (4) <capitalize>
+time b5 hour 4.25,<newline>*** TODO [#B15] (4.25) <capitalize>
+time b5 hour 4.5,<newline>*** TODO [#B15] (4.5) <capitalize>
+time b5 hour 4.75,<newline>*** TODO [#B15] (4.75) <capitalize>
+time b5 hour 5,<newline>*** TODO [#B15] (5) <capitalize>
+time b6 h0.25,<newline>*** TODO [#B16] (0.25) <capitalize>
+time b6 h0.5,<newline>*** TODO [#B16] (0.5) <capitalize>
+time b6 h0.75,<newline>*** TODO [#B16] (0.75) <capitalize>
+time b6 h1,<newline>*** TODO [#B16] (1) <capitalize>
+time b6 h1.25,<newline>*** TODO [#B16] (1.25) <capitalize>
+time b6 h1.5,<newline>*** TODO [#B16] (1.5) <capitalize>
+time b6 h1.75,<newline>*** TODO [#B16] (1.75) <capitalize>
+time b6 h2,<newline>*** TODO [#B16] (2) <capitalize>
+time b6 h2.25,<newline>*** TODO [#B16] (2.25) <capitalize>
+time b6 h2.5,<newline>*** TODO [#B16] (2.5) <capitalize>
+time b6 h2.75,<newline>*** TODO [#B16] (2.75) <capitalize>
+time b6 h3,<newline>*** TODO [#B16] (3) <capitalize>
+time b6 h3.25,<newline>*** TODO [#B16] (3.25) <capitalize>
+time b6 h3.5,<newline>*** TODO [#B16] (3.5) <capitalize>
+time b6 h3.75,<newline>*** TODO [#B16] (3.75) <capitalize>
+time b6 h4,<newline>*** TODO [#B16] (4) <capitalize>
+time b6 h4.25,<newline>*** TODO [#B16] (4.25) <capitalize>
+time b6 h4.5,<newline>*** TODO [#B16] (4.5) <capitalize>
+time b6 h4.75,<newline>*** TODO [#B16] (4.75) <capitalize>
+time b6 h5,<newline>*** TODO [#B16] (5) <capitalize
+time b6 hour 0.25,<newline>*** TODO [#B16] (0.25) <capitalize>
+time b6 hour 0.5,<newline>*** TODO [#B16] (0.5) <capitalize>
+time b6 hour 0.75,<newline>*** TODO [#B16] (0.75) <capitalize>
+time b6 hour 1,<newline>*** TODO [#B16] (1) <capitalize>
+time b6 hour 1.25,<newline>*** TODO [#B16] (1.25) <capitalize>
+time b6 hour 1.5,<newline>*** TODO [#B16] (1.5) <capitalize>
+time b6 hour 1.75,<newline>*** TODO [#B16] (1.75) <capitalize>
+time b6 hour 2,<newline>*** TODO [#B16] (2) <capitalize>
+time b6 hour 2.25,<newline>*** TODO [#B16] (2.25) <capitalize>
+time b6 hour 2.5,<newline>*** TODO [#B16] (2.5) <capitalize>
+time b6 hour 2.75,<newline>*** TODO [#B16] (2.75) <capitalize>
+time b6 hour 3,<newline>*** TODO [#B16] (3) <capitalize>
+time b6 hour 3.25,<newline>*** TODO [#B16] (3.25) <capitalize>
+time b6 hour 3.5,<newline>*** TODO [#B16] (3.5) <capitalize>
+time b6 hour 3.75,<newline>*** TODO [#B16] (3.75) <capitalize>
+time b6 hour 4,<newline>*** TODO [#B16] (4) <capitalize>
+time b6 hour 4.25,<newline>*** TODO [#B16] (4.25) <capitalize>
+time b6 hour 4.5,<newline>*** TODO [#B16] (4.5) <capitalize>
+time b6 hour 4.75,<newline>*** TODO [#B16] (4.75) <capitalize>
+time b6 hour 5,<newline>*** TODO [#B16] (5) <capitalize
+time b7 h0.25,<newline>*** TODO [#B17] (0.25) <capitalize>
+time b7 h0.5,<newline>*** TODO [#B17] (0.5) <capitalize>
+time b7 h0.75,<newline>*** TODO [#B17] (0.75) <capitalize>
+time b7 h1,<newline>*** TODO [#B17] (1) <capitalize>
+time b7 h1.25,<newline>*** TODO [#B17] (1.25) <capitalize>
+time b7 h1.5,<newline>*** TODO [#B17] (1.5) <capitalize>
+time b7 h1.75,<newline>*** TODO [#B17] (1.75) <capitalize>
+time b7 h2,<newline>*** TODO [#B17] (2) <capitalize>
+time b7 h2.25,<newline>*** TODO [#B17] (2.25) <capitalize>
+time b7 h2.5,<newline>*** TODO [#B17] (2.5) <capitalize>
+time b7 h2.75,<newline>*** TODO [#B17] (2.75) <capitalize>
+time b7 h3,<newline>*** TODO [#B17] (3) <capitalize>
+time b7 h3.25,<newline>*** TODO [#B17] (3.25) <capitalize>
+time b7 h3.5,<newline>*** TODO [#B17] (3.5) <capitalize>
+time b7 h3.75,<newline>*** TODO [#B17] (3.75) <capitalize>
+time b7 h4,<newline>*** TODO [#B17] (4) <capitalize>
+time b7 h4.25,<newline>*** TODO [#B17] (4.25) <capitalize>
+time b7 h4.5,<newline>*** TODO [#B17] (4.5) <capitalize>
+time b7 h4.75,<newline>*** TODO [#B17] (4.75) <capitalize>
+time b7 h5,<newline>*** TODO [#B17] (5) <capitalize
+time b7 hour 0.25,<newline>*** TODO [#B17] (0.25) <capitalize>
+time b7 hour 0.5,<newline>*** TODO [#B17] (0.5) <capitalize>
+time b7 hour 0.75,<newline>*** TODO [#B17] (0.75) <capitalize>
+time b7 hour 1,<newline>*** TODO [#B17] (1) <capitalize>
+time b7 hour 1.25,<newline>*** TODO [#B17] (1.25) <capitalize>
+time b7 hour 1.5,<newline>*** TODO [#B17] (1.5) <capitalize>
+time b7 hour 1.75,<newline>*** TODO [#B17] (1.75) <capitalize>
+time b7 hour 2,<newline>*** TODO [#B17] (2) <capitalize>
+time b7 hour 2.25,<newline>*** TODO [#B17] (2.25) <capitalize>
+time b7 hour 2.5,<newline>*** TODO [#B17] (2.5) <capitalize>
+time b7 hour 2.75,<newline>*** TODO [#B17] (2.75) <capitalize>
+time b7 hour 3,<newline>*** TODO [#B17] (3) <capitalize>
+time b7 hour 3.25,<newline>*** TODO [#B17] (3.25) <capitalize>
+time b7 hour 3.5,<newline>*** TODO [#B17] (3.5) <capitalize>
+time b7 hour 3.75,<newline>*** TODO [#B17] (3.75) <capitalize>
+time b7 hour 4,<newline>*** TODO [#B17] (4) <capitalize>
+time b7 hour 4.25,<newline>*** TODO [#B17] (4.25) <capitalize>
+time b7 hour 4.5,<newline>*** TODO [#B17] (4.5) <capitalize>
+time b7 hour 4.75,<newline>*** TODO [#B17] (4.75) <capitalize>
+time b7 hour 5,<newline>*** TODO [#B17] (5) <capitalize
+time b8 h0.25,<newline>*** TODO [#B18] (0.25) <capitalize>
+time b8 h0.5,<newline>*** TODO [#B18] (0.5) <capitalize>
+time b8 h0.75,<newline>*** TODO [#B18] (0.75) <capitalize>
+time b8 h1,<newline>*** TODO [#B18] (1) <capitalize>
+time b8 h1.25,<newline>*** TODO [#B18] (1.25) <capitalize>
+time b8 h1.5,<newline>*** TODO [#B18] (1.5) <capitalize>
+time b8 h1.75,<newline>*** TODO [#B18] (1.75) <capitalize>
+time b8 h2,<newline>*** TODO [#B18] (2) <capitalize>
+time b8 h2.25,<newline>*** TODO [#B18] (2.25) <capitalize>
+time b8 h2.5,<newline>*** TODO [#B18] (2.5) <capitalize>
+time b8 h2.75,<newline>*** TODO [#B18] (2.75) <capitalize>
+time b8 h3,<newline>*** TODO [#B18] (3) <capitalize>
+time b8 h3.25,<newline>*** TODO [#B18] (3.25) <capitalize>
+time b8 h3.5,<newline>*** TODO [#B18] (3.5) <capitalize>
+time b8 h3.75,<newline>*** TODO [#B18] (3.75) <capitalize>
+time b8 h4,<newline>*** TODO [#B18] (4) <capitalize>
+time b8 h4.25,<newline>*** TODO [#B18] (4.25) <capitalize>
+time b8 h4.5,<newline>*** TODO [#B18] (4.5) <capitalize>
+time b8 h4.75,<newline>*** TODO [#B18] (4.75) <capitalize>
+time b8 h5,<newline>*** TODO [#B18] (5) <capitalize
+time b8 hour 0.25,<newline>*** TODO [#B18] (0.25) <capitalize>
+time b8 hour 0.5,<newline>*** TODO [#B18] (0.5) <capitalize>
+time b8 hour 0.75,<newline>*** TODO [#B18] (0.75) <capitalize>
+time b8 hour 1,<newline>*** TODO [#B18] (1) <capitalize>
+time b8 hour 1.25,<newline>*** TODO [#B18] (1.25) <capitalize>
+time b8 hour 1.5,<newline>*** TODO [#B18] (1.5) <capitalize>
+time b8 hour 1.75,<newline>*** TODO [#B18] (1.75) <capitalize>
+time b8 hour 2,<newline>*** TODO [#B18] (2) <capitalize>
+time b8 hour 2.25,<newline>*** TODO [#B18] (2.25) <capitalize>
+time b8 hour 2.5,<newline>*** TODO [#B18] (2.5) <capitalize>
+time b8 hour 2.75,<newline>*** TODO [#B18] (2.75) <capitalize>
+time b8 hour 3,<newline>*** TODO [#B18] (3) <capitalize>
+time b8 hour 3.25,<newline>*** TODO [#B18] (3.25) <capitalize>
+time b8 hour 3.5,<newline>*** TODO [#B18] (3.5) <capitalize>
+time b8 hour 3.75,<newline>*** TODO [#B18] (3.75) <capitalize>
+time b8 hour 4,<newline>*** TODO [#B18] (4) <capitalize>
+time b8 hour 4.25,<newline>*** TODO [#B18] (4.25) <capitalize>
+time b8 hour 4.5,<newline>*** TODO [#B18] (4.5) <capitalize>
+time b8 hour 4.75,<newline>*** TODO [#B18] (4.75) <capitalize>
+time b8 hour 5,<newline>*** TODO [#B18] (5) <capitalize
+time b9 h0.25,<newline>*** TODO [#B19] (0.25) <capitalize>
+time b9 h0.5,<newline>*** TODO [#B19](0.5) <capitalize>
+time b9 h0.75,<newline>*** TODO [#B19] (0.75) <capitalize>
+time b9 h1,<newline>*** TODO [#B19] (1) <capitalize>
+time b9 h1.25,<newline>*** TODO [#B19] (1.25) <capitalize>
+time b9 h1.5,<newline>*** TODO [#B19] (1.5) <capitalize>
+time b9 h1.75,<newline>*** TODO [#B19] (1.75) <capitalize>
+time b9 h2,<newline>*** TODO [#B19] (2) <capitalize>
+time b9 h2.25,<newline>*** TODO [#B19] (2.25) <capitalize>
+time b9 h2.5,<newline>*** TODO [#B19] (2.5) <capitalize>
+time b9 h2.75,<newline>*** TODO [#B19] (2.75) <capitalize>
+time b9 h3,<newline>*** TODO [#B19] (3) <capitalize>
+time b9 h3.25,<newline>*** TODO [#B19] (3.25) <capitalize>
+time b9 h3.5,<newline>*** TODO [#B19] (3.5) <capitalize>
+time b9 h3.75,<newline>*** TODO [#B19] (3.75) <capitalize>
+time b9 h4,<newline>*** TODO [#B19] (4) <capitalize>
+time b9 h4.25,<newline>*** TODO [#B19] (4.25) <capitalize>
+time b9 h4.5,<newline>*** TODO [#B19] (4.5) <capitalize>
+time b9 h4.75,<newline>*** TODO [#B19] (4.75) <capitalize>
+time b9 h5,<newline>*** TODO [#B19] (5) <capitalize
+time b9 hour 0.25,<newline>*** TODO [#B19] (0.25) <capitalize>
+time b9 hour 0.5,<newline>*** TODO [#B19](0.5) <capitalize>
+time b9 hour 0.75,<newline>*** TODO [#B19] (0.75) <capitalize>
+time b9 hour 1,<newline>*** TODO [#B19] (1) <capitalize>
+time b9 hour 1.25,<newline>*** TODO [#B19] (1.25) <capitalize>
+time b9 hour 1.5,<newline>*** TODO [#B19] (1.5) <capitalize>
+time b9 hour 1.75,<newline>*** TODO [#B19] (1.75) <capitalize>
+time b9 hour 2,<newline>*** TODO [#B19] (2) <capitalize>
+time b9 hour 2.25,<newline>*** TODO [#B19] (2.25) <capitalize>
+time b9 hour 2.5,<newline>*** TODO [#B19] (2.5) <capitalize>
+time b9 hour 2.75,<newline>*** TODO [#B19] (2.75) <capitalize>
+time b9 hour 3,<newline>*** TODO [#B19] (3) <capitalize>
+time b9 hour 3.25,<newline>*** TODO [#B19] (3.25) <capitalize>
+time b9 hour 3.5,<newline>*** TODO [#B19] (3.5) <capitalize>
+time b9 hour 3.75,<newline>*** TODO [#B19] (3.75) <capitalize>
+time b9 hour 4,<newline>*** TODO [#B19] (4) <capitalize>
+time b9 hour 4.25,<newline>*** TODO [#B19] (4.25) <capitalize>
+time b9 hour 4.5,<newline>*** TODO [#B19] (4.5) <capitalize>
+time b9 hour 4.75,<newline>*** TODO [#B19] (4.75) <capitalize>
+time b9 hour 5,<newline>*** TODO [#B19] (5) <capitalize
+time bat 1 harp 2,<newline>*** TODO [#B11] (2) <capitalize>
+time bat 1 part 2,<newline>*** TODO [#B11] (2) <capitalize>
+time bat one part two,<newline>*** TODO [#B11] (2) <capitalize>
+time c1 h0.25,<newline>*** TODO [#C21] (0.25) <capitalize>
+time c1 h0.5,<newline>*** TODO [#C21] (0.5) <capitalize>
+time c1 h0.75,<newline>*** TODO [#C21] (0.75) <capitalize>
+time c1 h1,<newline>*** TODO [#C21] (1) <capitalize>
+time c1 h1.25,<newline>*** TODO [#C21] (1.25) <capitalize>
+time c1 h1.5,<newline>*** TODO [#C21] (1.5) <capitalize>
+time c1 h1.75,<newline>*** TODO [#C21] (1.75) <capitalize>
+time c1 h2,<newline>*** TODO [#C21] (2) <capitalize>
+time c1 h2.25,<newline>*** TODO [#C21] (2.25) <capitalize>
+time c1 h2.5,<newline>*** TODO [#C21] (2.5) <capitalize>
+time c1 h2.75,<newline>*** TODO [#C21] (2.75) <capitalize>
+time c1 h3,<newline>*** TODO [#C21] (3) <capitalize>
+time c1 h3.25,<newline>*** TODO [#C21] (3.25) <capitalize>
+time c1 h3.5,<newline>*** TODO [#C21] (3.5) <capitalize>
+time c1 h3.75,<newline>*** TODO [#C21] (3.75) <capitalize>
+time c1 h4,<newline>*** TODO [#C21] (4) <capitalize>
+time c1 h4.25,<newline>*** TODO [#C21] (4.25) <capitalize>
+time c1 h4.5,<newline>*** TODO [#C21] (4.5) <capitalize>
+time c1 h4.75,<newline>*** TODO [#C21] (4.75) <capitalize>
+time c1 h5,<newline>*** TODO [#C21] (5) <capitalize>
+time c1 hour 0.25,<newline>*** TODO [#C21] (0.25) <capitalize>
+time c1 hour 0.5,<newline>*** TODO [#C21] (0.5) <capitalize>
+time c1 hour 0.75,<newline>*** TODO [#C21] (0.75) <capitalize>
+time c1 hour 1,<newline>*** TODO [#C21] (1) <capitalize>
+time c1 hour 1.25,<newline>*** TODO [#C21] (1.25) <capitalize>
+time c1 hour 1.5,<newline>*** TODO [#C21] (1.5) <capitalize>
+time c1 hour 1.75,<newline>*** TODO [#C21] (1.75) <capitalize>
+time c1 hour 2,<newline>*** TODO [#C21] (2) <capitalize>
+time c1 hour 2.25,<newline>*** TODO [#C21] (2.25) <capitalize>
+time c1 hour 2.5,<newline>*** TODO [#C21] (2.5) <capitalize>
+time c1 hour 2.75,<newline>*** TODO [#C21] (2.75) <capitalize>
+time c1 hour 3,<newline>*** TODO [#C21] (3) <capitalize>
+time c1 hour 3.25,<newline>*** TODO [#C21] (3.25) <capitalize>
+time c1 hour 3.5,<newline>*** TODO [#C21] (3.5) <capitalize>
+time c1 hour 3.75,<newline>*** TODO [#C21] (3.75) <capitalize>
+time c1 hour 4,<newline>*** TODO [#C21] (4) <capitalize>
+time c1 hour 4.25,<newline>*** TODO [#C21] (4.25) <capitalize>
+time c1 hour 4.5,<newline>*** TODO [#C21] (4.5) <capitalize>
+time c1 hour 4.75,<newline>*** TODO [#C21] (4.75) <capitalize>
+time c1 hour 5,<newline>*** TODO [#C21] (5) <capitalize>
+time c10 h0.25,<newline>*** TODO [#C30] (0.25) <capitalize>
+time c10 h0.5,<newline>*** TODO [#C30] (0.5) <capitalize>
+time c10 h0.75,<newline>*** TODO [#C30] (0.75) <capitalize>
+time c10 h1,<newline>*** TODO [#C30] (1) <capitalize>
+time c10 h1.25,<newline>*** TODO [#C30] (1.25) <capitalize>
+time c10 h1.5,<newline>*** TODO [#C30] (1.5) <capitalize>
+time c10 h1.75,<newline>*** TODO [#C30] (1.75) <capitalize>
+time c10 h2,<newline>*** TODO [#C30] (2) <capitalize>
+time c10 h2.25,<newline>*** TODO [#C30] (2.25) <capitalize>
+time c10 h2.5,<newline>*** TODO [#C30] (2.5) <capitalize>
+time c10 h2.75,<newline>*** TODO [#C30] (2.75) <capitalize>
+time c10 h3,<newline>*** TODO [#C30] (3) <capitalize>
+time c10 h3.25,<newline>*** TODO [#C30] (3.25) <capitalize>
+time c10 h3.5,<newline>*** TODO [#C30] (3.5) <capitalize>
+time c10 h3.75,<newline>*** TODO [#C30] (3.75) <capitalize>
+time c10 h4,<newline>*** TODO [#C30] (4) <capitalize>
+time c10 h4.25,<newline>*** TODO [#C30] (4.25) <capitalize>
+time c10 h4.5,<newline>*** TODO [#C30] (4.5) <capitalize>
+time c10 h4.75,<newline>*** TODO [#C30] (4.75) <capitalize>
+time c10 h5,<newline>*** TODO [#C30] (5) <capitalize>
+time c10 hour 0.25,<newline>*** TODO [#C30] (0.25) <capitalize>
+time c10 hour 0.5,<newline>*** TODO [#C30] (0.5) <capitalize>
+time c10 hour 0.75,<newline>*** TODO [#C30] (0.75) <capitalize>
+time c10 hour 1,<newline>*** TODO [#C30] (1) <capitalize>
+time c10 hour 1.25,<newline>*** TODO [#C30] (1.25) <capitalize>
+time c10 hour 1.5,<newline>*** TODO [#C30] (1.5) <capitalize>
+time c10 hour 1.75,<newline>*** TODO [#C30] (1.75) <capitalize>
+time c10 hour 2,<newline>*** TODO [#C30] (2) <capitalize>
+time c10 hour 2.25,<newline>*** TODO [#C30] (2.25) <capitalize>
+time c10 hour 2.5,<newline>*** TODO [#C30] (2.5) <capitalize>
+time c10 hour 2.75,<newline>*** TODO [#C30] (2.75) <capitalize>
+time c10 hour 3,<newline>*** TODO [#C30] (3) <capitalize>
+time c10 hour 3.25,<newline>*** TODO [#C30] (3.25) <capitalize>
+time c10 hour 3.5,<newline>*** TODO [#C30] (3.5) <capitalize>
+time c10 hour 3.75,<newline>*** TODO [#C30] (3.75) <capitalize>
+time c10 hour 4,<newline>*** TODO [#C30] (4) <capitalize>
+time c10 hour 4.25,<newline>*** TODO [#C30] (4.25) <capitalize>
+time c10 hour 4.5,<newline>*** TODO [#C30] (4.5) <capitalize>
+time c10 hour 4.75,<newline>*** TODO [#C30] (4.75) <capitalize>
+time c10 hour 5,<newline>*** TODO [#C30] (5) <capitalize>
+time c2 h0.25,<newline>*** TODO [#C22] (0.25) <capitalize>
+time c2 h0.5,<newline>*** TODO [#C22] (0.5) <capitalize>
+time c2 h0.75,<newline>*** TODO [#C22] (0.75) <capitalize>
+time c2 h1,<newline>*** TODO [#C22] (1) <capitalize>
+time c2 h1.25,<newline>*** TODO [#C22] (1.25) <capitalize>
+time c2 h1.5,<newline>*** TODO [#C22] (1.5) <capitalize>
+time c2 h1.75,<newline>*** TODO [#C22] (1.75) <capitalize>
+time c2 h2,<newline>*** TODO [#C22] (2) <capitalize>
+time c2 h2.25,<newline>*** TODO [#C22] (2.25) <capitalize>
+time c2 h2.5,<newline>*** TODO [#C22] (2.5) <capitalize>
+time c2 h2.75,<newline>*** TODO [#C22] (2.75) <capitalize>
+time c2 h3,<newline>*** TODO [#C22] (3) <capitalize>
+time c2 h3.25,<newline>*** TODO [#C22] (3.25) <capitalize>
+time c2 h3.5,<newline>*** TODO [#C22] (3.5) <capitalize>
+time c2 h3.75,<newline>*** TODO [#C22] (3.75) <capitalize>
+time c2 h4,<newline>*** TODO [#C22] (4) <capitalize>
+time c2 h4.25,<newline>*** TODO [#C22] (4.25) <capitalize>
+time c2 h4.5,<newline>*** TODO [#C22] (4.5) <capitalize>
+time c2 h4.75,<newline>*** TODO [#C22] (4.75) <capitalize>
+time c2 h5,<newline>*** TODO [#B12] (5) <capitalize>
+time c2 hour 0.25,<newline>*** TODO [#C22] (0.25) <capitalize>
+time c2 hour 0.5,<newline>*** TODO [#C22] (0.5) <capitalize>
+time c2 hour 0.75,<newline>*** TODO [#C22] (0.75) <capitalize>
+time c2 hour 1,<newline>*** TODO [#C22] (1) <capitalize>
+time c2 hour 1.25,<newline>*** TODO [#C22] (1.25) <capitalize>
+time c2 hour 1.5,<newline>*** TODO [#C22] (1.5) <capitalize>
+time c2 hour 1.75,<newline>*** TODO [#C22] (1.75) <capitalize>
+time c2 hour 2,<newline>*** TODO [#C22] (2) <capitalize>
+time c2 hour 2.25,<newline>*** TODO [#C22] (2.25) <capitalize>
+time c2 hour 2.5,<newline>*** TODO [#C22] (2.5) <capitalize>
+time c2 hour 2.75,<newline>*** TODO [#C22] (2.75) <capitalize>
+time c2 hour 3,<newline>*** TODO [#C22] (3) <capitalize>
+time c2 hour 3.25,<newline>*** TODO [#C22] (3.25) <capitalize>
+time c2 hour 3.5,<newline>*** TODO [#C22] (3.5) <capitalize>
+time c2 hour 3.75,<newline>*** TODO [#C22] (3.75) <capitalize>
+time c2 hour 4,<newline>*** TODO [#C22] (4) <capitalize>
+time c2 hour 4.25,<newline>*** TODO [#C22] (4.25) <capitalize>
+time c2 hour 4.5,<newline>*** TODO [#C22] (4.5) <capitalize>
+time c2 hour 4.75,<newline>*** TODO [#C22] (4.75) <capitalize>
+time c2 hour 5,<newline>*** TODO [#B12] (5) <capitalize>
+time c3 h0.25,<newline>*** TODO [#C23] (0.25) <capitalize>
+time c3 h0.5,<newline>*** TODO [#C23] (0.5) <capitalize>
+time c3 h0.75,<newline>*** TODO [#C23] (0.75) <capitalize>
+time c3 h1,<newline>*** TODO [#C23] (1) <capitalize>
+time c3 h1.25,<newline>*** TODO [#C23] (1.25) <capitalize>
+time c3 h1.5,<newline>*** TODO [#C23] (1.5) <capitalize>
+time c3 h1.75,<newline>*** TODO [#C23] (1.75) <capitalize>
+time c3 h2,<newline>*** TODO [#C23] (2) <capitalize>
+time c3 h2.25,<newline>*** TODO [#C23] (2.25) <capitalize>
+time c3 h2.5,<newline>*** TODO [#C23] (2.5) <capitalize>
+time c3 h2.75,<newline>*** TODO [#C23] (2.75) <capitalize>
+time c3 h3,<newline>*** TODO [#C23] (3) <capitalize>
+time c3 h3.25,<newline>*** TODO [#C23] (3.25) <capitalize>
+time c3 h3.5,<newline>*** TODO [#C23] (3.5) <capitalize>
+time c3 h3.75,<newline>*** TODO [#C23] (3.75) <capitalize>
+time c3 h4,<newline>*** TODO [#C23] (4) <capitalize>
+time c3 h4.25,<newline>*** TODO [#C23] (4.25) <capitalize>
+time c3 h4.5,<newline>*** TODO [#C23] (4.5) <capitalize>
+time c3 h4.75,<newline>*** TODO [#C23] (4.75) <capitalize>
+time c3 h5,<newline>*** TODO [#C23] (5) <capitalize>
+time c3 hour 0.25,<newline>*** TODO [#C23] (0.25) <capitalize>
+time c3 hour 0.5,<newline>*** TODO [#C23] (0.5) <capitalize>
+time c3 hour 0.75,<newline>*** TODO [#C23] (0.75) <capitalize>
+time c3 hour 1,<newline>*** TODO [#C23] (1) <capitalize>
+time c3 hour 1.25,<newline>*** TODO [#C23] (1.25) <capitalize>
+time c3 hour 1.5,<newline>*** TODO [#C23] (1.5) <capitalize>
+time c3 hour 1.75,<newline>*** TODO [#C23] (1.75) <capitalize>
+time c3 hour 2,<newline>*** TODO [#C23] (2) <capitalize>
+time c3 hour 2.25,<newline>*** TODO [#C23] (2.25) <capitalize>
+time c3 hour 2.5,<newline>*** TODO [#C23] (2.5) <capitalize>
+time c3 hour 2.75,<newline>*** TODO [#C23] (2.75) <capitalize>
+time c3 hour 3,<newline>*** TODO [#C23] (3) <capitalize>
+time c3 hour 3.25,<newline>*** TODO [#C23] (3.25) <capitalize>
+time c3 hour 3.5,<newline>*** TODO [#C23] (3.5) <capitalize>
+time c3 hour 3.75,<newline>*** TODO [#C23] (3.75) <capitalize>
+time c3 hour 4,<newline>*** TODO [#C23] (4) <capitalize>
+time c3 hour 4.25,<newline>*** TODO [#C23] (4.25) <capitalize>
+time c3 hour 4.5,<newline>*** TODO [#C23] (4.5) <capitalize>
+time c3 hour 4.75,<newline>*** TODO [#C23] (4.75) <capitalize>
+time c3 hour 5,<newline>*** TODO [#C23] (5) <capitalize>
+time c4 h0.25,<newline>*** TODO [#C24] (0.25) <capitalize>
+time c4 h0.5,<newline>*** TODO [#C24] (0.5) <capitalize>
+time c4 h0.75,<newline>*** TODO [#C24] (0.75) <capitalize>
+time c4 h1,<newline>*** TODO [#C24] (1) <capitalize>
+time c4 h1.25,<newline>*** TODO [#C24] (1.25) <capitalize>
+time c4 h1.5,<newline>*** TODO [#C24] (1.5) <capitalize>
+time c4 h1.75,<newline>*** TODO [#C24] (1.75) <capitalize>
+time c4 h2,<newline>*** TODO [#C24] (2) <capitalize>
+time c4 h2.25,<newline>*** TODO [#C24] (2.25) <capitalize>
+time c4 h2.5,<newline>*** TODO [#C24] (2.5) <capitalize>
+time c4 h2.75,<newline>*** TODO [#C24] (2.75) <capitalize>
+time c4 h3,<newline>*** TODO [#C24] (3) <capitalize>
+time c4 h3.25,<newline>*** TODO [#C24] (3.25) <capitalize>
+time c4 h3.5,<newline>*** TODO [#C24] (3.5) <capitalize>
+time c4 h3.75,<newline>*** TODO [#C24] (3.75) <capitalize>
+time c4 h4,<newline>*** TODO [#C24] (4) <capitalize>
+time c4 h4.25,<newline>*** TODO [#C24] (4.25) <capitalize>
+time c4 h4.5,<newline>*** TODO [#C24] (4.5) <capitalize>
+time c4 h4.75,<newline>*** TODO [#C24] (4.75) <capitalize>
+time c4 h5,<newline>*** TODO [#C24] (5) <capitalize>
+time c4 hour 0.25,<newline>*** TODO [#C24] (0.25) <capitalize>
+time c4 hour 0.5,<newline>*** TODO [#C24] (0.5) <capitalize>
+time c4 hour 0.75,<newline>*** TODO [#C24] (0.75) <capitalize>
+time c4 hour 1,<newline>*** TODO [#C24] (1) <capitalize>
+time c4 hour 1.25,<newline>*** TODO [#C24] (1.25) <capitalize>
+time c4 hour 1.5,<newline>*** TODO [#C24] (1.5) <capitalize>
+time c4 hour 1.75,<newline>*** TODO [#C24] (1.75) <capitalize>
+time c4 hour 2,<newline>*** TODO [#C24] (2) <capitalize>
+time c4 hour 2.25,<newline>*** TODO [#C24] (2.25) <capitalize>
+time c4 hour 2.5,<newline>*** TODO [#C24] (2.5) <capitalize>
+time c4 hour 2.75,<newline>*** TODO [#C24] (2.75) <capitalize>
+time c4 hour 3,<newline>*** TODO [#C24] (3) <capitalize>
+time c4 hour 3.25,<newline>*** TODO [#C24] (3.25) <capitalize>
+time c4 hour 3.5,<newline>*** TODO [#C24] (3.5) <capitalize>
+time c4 hour 3.75,<newline>*** TODO [#C24] (3.75) <capitalize>
+time c4 hour 4,<newline>*** TODO [#C24] (4) <capitalize>
+time c4 hour 4.25,<newline>*** TODO [#C24] (4.25) <capitalize>
+time c4 hour 4.5,<newline>*** TODO [#C24] (4.5) <capitalize>
+time c4 hour 4.75,<newline>*** TODO [#C24] (4.75) <capitalize>
+time c4 hour 5,<newline>*** TODO [#C24] (5) <capitalize>
+time c5 h0.25,<newline>*** TODO [#C25] (0.25) <capitalize>
+time c5 h0.5,<newline>*** TODO [#C25] (0.5) <capitalize>
+time c5 h0.75,<newline>*** TODO [#C25] (0.75) <capitalize>
+time c5 h1,<newline>*** TODO [#C25] (1) <capitalize>
+time c5 h1.25,<newline>*** TODO [#C25] (1.25) <capitalize>
+time c5 h1.5,<newline>*** TODO [#C25] (1.5) <capitalize>
+time c5 h1.75,<newline>*** TODO [#C25] (1.75) <capitalize>
+time c5 h2,<newline>*** TODO [#C25] (2) <capitalize>
+time c5 h2.25,<newline>*** TODO [#C25] (2.25) <capitalize>
+time c5 h2.5,<newline>*** TODO [#C25] (2.5) <capitalize>
+time c5 h2.75,<newline>*** TODO [#C25] (2.75) <capitalize>
+time c5 h3,<newline>*** TODO [#C25] (3) <capitalize>
+time c5 h3.25,<newline>*** TODO [#C25] (3.25) <capitalize>
+time c5 h3.5,<newline>*** TODO [#C25] (3.5) <capitalize>
+time c5 h3.75,<newline>*** TODO [#C25] (3.75) <capitalize>
+time c5 h4,<newline>*** TODO [#C25] (4) <capitalize>
+time c5 h4.25,<newline>*** TODO [#C25] (4.25) <capitalize>
+time c5 h4.5,<newline>*** TODO [#C25] (4.5) <capitalize>
+time c5 h4.75,<newline>*** TODO [#C25] (4.75) <capitalize>
+time c5 h5,<newline>*** TODO [#C25] (5) <capitalize>
+time c5 hour 0.25,<newline>*** TODO [#C25] (0.25) <capitalize>
+time c5 hour 0.5,<newline>*** TODO [#C25] (0.5) <capitalize>
+time c5 hour 0.75,<newline>*** TODO [#C25] (0.75) <capitalize>
+time c5 hour 1,<newline>*** TODO [#C25] (1) <capitalize>
+time c5 hour 1.25,<newline>*** TODO [#C25] (1.25) <capitalize>
+time c5 hour 1.5,<newline>*** TODO [#C25] (1.5) <capitalize>
+time c5 hour 1.75,<newline>*** TODO [#C25] (1.75) <capitalize>
+time c5 hour 2,<newline>*** TODO [#C25] (2) <capitalize>
+time c5 hour 2.25,<newline>*** TODO [#C25] (2.25) <capitalize>
+time c5 hour 2.5,<newline>*** TODO [#C25] (2.5) <capitalize>
+time c5 hour 2.75,<newline>*** TODO [#C25] (2.75) <capitalize>
+time c5 hour 3,<newline>*** TODO [#C25] (3) <capitalize>
+time c5 hour 3.25,<newline>*** TODO [#C25] (3.25) <capitalize>
+time c5 hour 3.5,<newline>*** TODO [#C25] (3.5) <capitalize>
+time c5 hour 3.75,<newline>*** TODO [#C25] (3.75) <capitalize>
+time c5 hour 4,<newline>*** TODO [#C25] (4) <capitalize>
+time c5 hour 4.25,<newline>*** TODO [#C25] (4.25) <capitalize>
+time c5 hour 4.5,<newline>*** TODO [#C25] (4.5) <capitalize>
+time c5 hour 4.75,<newline>*** TODO [#C25] (4.75) <capitalize>
+time c5 hour 5,<newline>*** TODO [#C25] (5) <capitalize>
+time c6 h0.25,<newline>*** TODO [#C26] (0.25) <capitalize>
+time c6 h0.5,<newline>*** TODO [#C26] (0.5) <capitalize>
+time c6 h0.75,<newline>*** TODO [#C26] (0.75) <capitalize>
+time c6 h1,<newline>*** TODO [#C26] (1) <capitalize>
+time c6 h1.25,<newline>*** TODO [#C26] (1.25) <capitalize>
+time c6 h1.5,<newline>*** TODO [#C26] (1.5) <capitalize>
+time c6 h1.75,<newline>*** TODO [#C26] (1.75) <capitalize>
+time c6 h2,<newline>*** TODO [#C26] (2) <capitalize>
+time c6 h2.25,<newline>*** TODO [#C26] (2.25) <capitalize>
+time c6 h2.5,<newline>*** TODO [#C26] (2.5) <capitalize>
+time c6 h2.75,<newline>*** TODO [#C26] (2.75) <capitalize>
+time c6 h3,<newline>*** TODO [#C26] (3) <capitalize>
+time c6 h3.25,<newline>*** TODO [#C26] (3.25) <capitalize>
+time c6 h3.5,<newline>*** TODO [#C26] (3.5) <capitalize>
+time c6 h3.75,<newline>*** TODO [#C26] (3.75) <capitalize>
+time c6 h4,<newline>*** TODO [#C26] (4) <capitalize>
+time c6 h4.25,<newline>*** TODO [#C26] (4.25) <capitalize>
+time c6 h4.5,<newline>*** TODO [#C26] (4.5) <capitalize>
+time c6 h4.75,<newline>*** TODO [#C26] (4.75) <capitalize>
+time c6 h5,<newline>*** TODO [#C26] (5) <capitalize
+time c6 hour 0.25,<newline>*** TODO [#C26] (0.25) <capitalize>
+time c6 hour 0.5,<newline>*** TODO [#C26] (0.5) <capitalize>
+time c6 hour 0.75,<newline>*** TODO [#C26] (0.75) <capitalize>
+time c6 hour 1,<newline>*** TODO [#C26] (1) <capitalize>
+time c6 hour 1.25,<newline>*** TODO [#C26] (1.25) <capitalize>
+time c6 hour 1.5,<newline>*** TODO [#C26] (1.5) <capitalize>
+time c6 hour 1.75,<newline>*** TODO [#C26] (1.75) <capitalize>
+time c6 hour 2,<newline>*** TODO [#C26] (2) <capitalize>
+time c6 hour 2.25,<newline>*** TODO [#C26] (2.25) <capitalize>
+time c6 hour 2.5,<newline>*** TODO [#C26] (2.5) <capitalize>
+time c6 hour 2.75,<newline>*** TODO [#C26] (2.75) <capitalize>
+time c6 hour 3,<newline>*** TODO [#C26] (3) <capitalize>
+time c6 hour 3.25,<newline>*** TODO [#C26] (3.25) <capitalize>
+time c6 hour 3.5,<newline>*** TODO [#C26] (3.5) <capitalize>
+time c6 hour 3.75,<newline>*** TODO [#C26] (3.75) <capitalize>
+time c6 hour 4,<newline>*** TODO [#C26] (4) <capitalize>
+time c6 hour 4.25,<newline>*** TODO [#C26] (4.25) <capitalize>
+time c6 hour 4.5,<newline>*** TODO [#C26] (4.5) <capitalize>
+time c6 hour 4.75,<newline>*** TODO [#C26] (4.75) <capitalize>
+time c6 hour 5,<newline>*** TODO [#C26] (5) <capitalize
+time c7 h0.25,<newline>*** TODO [#C27] (0.25) <capitalize>
+time c7 h0.5,<newline>*** TODO [#C27] (0.5) <capitalize>
+time c7 h0.75,<newline>*** TODO [#C27] (0.75) <capitalize>
+time c7 h1,<newline>*** TODO [#C27] (1) <capitalize>
+time c7 h1.25,<newline>*** TODO [#C27] (1.25) <capitalize>
+time c7 h1.5,<newline>*** TODO [#C27] (1.5) <capitalize>
+time c7 h1.75,<newline>*** TODO [#C27] (1.75) <capitalize>
+time c7 h2,<newline>*** TODO [#C27] (2) <capitalize>
+time c7 h2.25,<newline>*** TODO [#C27] (2.25) <capitalize>
+time c7 h2.5,<newline>*** TODO [#C27] (2.5) <capitalize>
+time c7 h2.75,<newline>*** TODO [#C27] (2.75) <capitalize>
+time c7 h3,<newline>*** TODO [#C27] (3) <capitalize>
+time c7 h3.25,<newline>*** TODO [#C27] (3.25) <capitalize>
+time c7 h3.5,<newline>*** TODO [#C27] (3.5) <capitalize>
+time c7 h3.75,<newline>*** TODO [#C27] (3.75) <capitalize>
+time c7 h4,<newline>*** TODO [#C27] (4) <capitalize>
+time c7 h4.25,<newline>*** TODO [#C27] (4.25) <capitalize>
+time c7 h4.5,<newline>*** TODO [#C27] (4.5) <capitalize>
+time c7 h4.75,<newline>*** TODO [#C27] (4.75) <capitalize>
+time c7 h5,<newline>*** TODO [#C27] (5) <capitalize
+time c7 hour 0.25,<newline>*** TODO [#C27] (0.25) <capitalize>
+time c7 hour 0.5,<newline>*** TODO [#C27] (0.5) <capitalize>
+time c7 hour 0.75,<newline>*** TODO [#C27] (0.75) <capitalize>
+time c7 hour 1,<newline>*** TODO [#C27] (1) <capitalize>
+time c7 hour 1.25,<newline>*** TODO [#C27] (1.25) <capitalize>
+time c7 hour 1.5,<newline>*** TODO [#C27] (1.5) <capitalize>
+time c7 hour 1.75,<newline>*** TODO [#C27] (1.75) <capitalize>
+time c7 hour 2,<newline>*** TODO [#C27] (2) <capitalize>
+time c7 hour 2.25,<newline>*** TODO [#C27] (2.25) <capitalize>
+time c7 hour 2.5,<newline>*** TODO [#C27] (2.5) <capitalize>
+time c7 hour 2.75,<newline>*** TODO [#C27] (2.75) <capitalize>
+time c7 hour 3,<newline>*** TODO [#C27] (3) <capitalize>
+time c7 hour 3.25,<newline>*** TODO [#C27] (3.25) <capitalize>
+time c7 hour 3.5,<newline>*** TODO [#C27] (3.5) <capitalize>
+time c7 hour 3.75,<newline>*** TODO [#C27] (3.75) <capitalize>
+time c7 hour 4,<newline>*** TODO [#C27] (4) <capitalize>
+time c7 hour 4.25,<newline>*** TODO [#C27] (4.25) <capitalize>
+time c7 hour 4.5,<newline>*** TODO [#C27] (4.5) <capitalize>
+time c7 hour 4.75,<newline>*** TODO [#C27] (4.75) <capitalize>
+time c7 hour 5,<newline>*** TODO [#C27] (5) <capitalize
+time c8 h0.25,<newline>*** TODO [#C28] (0.25) <capitalize>
+time c8 h0.5,<newline>*** TODO [#C28] (0.5) <capitalize>
+time c8 h0.75,<newline>*** TODO [#C28] (0.75) <capitalize>
+time c8 h1,<newline>*** TODO [#C28] (1) <capitalize>
+time c8 h1.25,<newline>*** TODO [#C28] (1.25) <capitalize>
+time c8 h1.5,<newline>*** TODO [#C28] (1.5) <capitalize>
+time c8 h1.75,<newline>*** TODO [#C28] (1.75) <capitalize>
+time c8 h2,<newline>*** TODO [#C28] (2) <capitalize>
+time c8 h2.25,<newline>*** TODO [#C28] (2.25) <capitalize>
+time c8 h2.5,<newline>*** TODO [#C28] (2.5) <capitalize>
+time c8 h2.75,<newline>*** TODO [#C28] (2.75) <capitalize>
+time c8 h3,<newline>*** TODO [#C28] (3) <capitalize>
+time c8 h3.25,<newline>*** TODO [#C28] (3.25) <capitalize>
+time c8 h3.5,<newline>*** TODO [#C28] (3.5) <capitalize>
+time c8 h3.75,<newline>*** TODO [#C28] (3.75) <capitalize>
+time c8 h4,<newline>*** TODO [#C28] (4) <capitalize>
+time c8 h4.25,<newline>*** TODO [#C28] (4.25) <capitalize>
+time c8 h4.5,<newline>*** TODO [#C28] (4.5) <capitalize>
+time c8 h4.75,<newline>*** TODO [#C28] (4.75) <capitalize>
+time c8 h5,<newline>*** TODO [#C28] (5) <capitalize
+time c8 hour 0.25,<newline>*** TODO [#C28] (0.25) <capitalize>
+time c8 hour 0.5,<newline>*** TODO [#C28] (0.5) <capitalize>
+time c8 hour 0.75,<newline>*** TODO [#C28] (0.75) <capitalize>
+time c8 hour 1,<newline>*** TODO [#C28] (1) <capitalize>
+time c8 hour 1.25,<newline>*** TODO [#C28] (1.25) <capitalize>
+time c8 hour 1.5,<newline>*** TODO [#C28] (1.5) <capitalize>
+time c8 hour 1.75,<newline>*** TODO [#C28] (1.75) <capitalize>
+time c8 hour 2,<newline>*** TODO [#C28] (2) <capitalize>
+time c8 hour 2.25,<newline>*** TODO [#C28] (2.25) <capitalize>
+time c8 hour 2.5,<newline>*** TODO [#C28] (2.5) <capitalize>
+time c8 hour 2.75,<newline>*** TODO [#C28] (2.75) <capitalize>
+time c8 hour 3,<newline>*** TODO [#C28] (3) <capitalize>
+time c8 hour 3.25,<newline>*** TODO [#C28] (3.25) <capitalize>
+time c8 hour 3.5,<newline>*** TODO [#C28] (3.5) <capitalize>
+time c8 hour 3.75,<newline>*** TODO [#C28] (3.75) <capitalize>
+time c8 hour 4,<newline>*** TODO [#C28] (4) <capitalize>
+time c8 hour 4.25,<newline>*** TODO [#C28] (4.25) <capitalize>
+time c8 hour 4.5,<newline>*** TODO [#C28] (4.5) <capitalize>
+time c8 hour 4.75,<newline>*** TODO [#C28] (4.75) <capitalize>
+time c8 hour 5,<newline>*** TODO [#C28] (5) <capitalize
+time c9 h0.25,<newline>*** TODO [#C29] (0.25) <capitalize>
+time c9 h0.5,<newline>*** TODO [#C29](0.5) <capitalize>
+time c9 h0.75,<newline>*** TODO [#C29] (0.75) <capitalize>
+time c9 h1,<newline>*** TODO [#C29] (1) <capitalize>
+time c9 h1.25,<newline>*** TODO [#C29] (1.25) <capitalize>
+time c9 h1.5,<newline>*** TODO [#C29] (1.5) <capitalize>
+time c9 h1.75,<newline>*** TODO [#C29] (1.75) <capitalize>
+time c9 h2,<newline>*** TODO [#C29] (2) <capitalize>
+time c9 h2.25,<newline>*** TODO [#C29] (2.25) <capitalize>
+time c9 h2.5,<newline>*** TODO [#C29] (2.5) <capitalize>
+time c9 h2.75,<newline>*** TODO [#C29] (2.75) <capitalize>
+time c9 h3,<newline>*** TODO [#C29] (3) <capitalize>
+time c9 h3.25,<newline>*** TODO [#C29] (3.25) <capitalize>
+time c9 h3.5,<newline>*** TODO [#C29] (3.5) <capitalize>
+time c9 h3.75,<newline>*** TODO [#C29] (3.75) <capitalize>
+time c9 h4,<newline>*** TODO [#C29] (4) <capitalize>
+time c9 h4.25,<newline>*** TODO [#C29] (4.25) <capitalize>
+time c9 h4.5,<newline>*** TODO [#C29] (4.5) <capitalize>
+time c9 h4.75,<newline>*** TODO [#C29] (4.75) <capitalize>
+time c9 h5,<newline>*** TODO [#C29] (5) <capitalize
+time c9 hour 0.25,<newline>*** TODO [#C29] (0.25) <capitalize>
+time c9 hour 0.5,<newline>*** TODO [#C29](0.5) <capitalize>
+time c9 hour 0.75,<newline>*** TODO [#C29] (0.75) <capitalize>
+time c9 hour 1,<newline>*** TODO [#C29] (1) <capitalize>
+time c9 hour 1.25,<newline>*** TODO [#C29] (1.25) <capitalize>
+time c9 hour 1.5,<newline>*** TODO [#C29] (1.5) <capitalize>
+time c9 hour 1.75,<newline>*** TODO [#C29] (1.75) <capitalize>
+time c9 hour 2,<newline>*** TODO [#C29] (2) <capitalize>
+time c9 hour 2.25,<newline>*** TODO [#C29] (2.25) <capitalize>
+time c9 hour 2.5,<newline>*** TODO [#C29] (2.5) <capitalize>
+time c9 hour 2.75,<newline>*** TODO [#C29] (2.75) <capitalize>
+time c9 hour 3,<newline>*** TODO [#C29] (3) <capitalize>
+time c9 hour 3.25,<newline>*** TODO [#C29] (3.25) <capitalize>
+time c9 hour 3.5,<newline>*** TODO [#C29] (3.5) <capitalize>
+time c9 hour 3.75,<newline>*** TODO [#C29] (3.75) <capitalize>
+time c9 hour 4,<newline>*** TODO [#C29] (4) <capitalize>
+time c9 hour 4.25,<newline>*** TODO [#C29] (4.25) <capitalize>
+time c9 hour 4.5,<newline>*** TODO [#C29] (4.5) <capitalize>
+time c9 hour 4.75,<newline>*** TODO [#C29] (4.75) <capitalize>
+time c9 hour 5,<newline>*** TODO [#C29] (5) <capitalize
+time cap 1 harp 2,<newline>*** TODO [#C1] (2) <capitalize>
+time limited cap 1 harp 2,<newline>*** TODO [#C1] (2) <capitalize>
+timed todo cap 1 harp 2,<newline>*** TODO [#C1] (2) <capitalize>
+tiny note, \note{\tiny{<capitalize>}}
+print this page,<press:ctrl-p>
+prioritized to do,<newline>*** TODO [#B] <capitalize>
+priority a,<newline>*** TODO [#A] <capitalize>
+priority a1,<newline>*** TODO [#A1] <capitalize>
+priority a2,<newline>*** TODO [#A2] <capitalize>
+priority a3,<newline>*** TODO [#A3] <capitalize>
+priority a4,<newline>*** TODO [#A4] <capitalize>
+priority a5,<newline>*** TODO [#A5] <capitalize>
+priority a6,<newline>*** TODO [#A6] <capitalize>
+priority a7,<newline>*** TODO [#A7] <capitalize>
+priority a8,<newline>*** TODO [#A8] <capitalize>
+priority a9,<newline>*** TODO [#A9] <capitalize>
+priority b,<newline>*** TODO [#B] <capitalize>
+priority b1,<newline> *** TODO [#B11] <capitalize>
+priority b2,<newline>*** TODO [#B12] <capitalize>
+priority b3,<newline>*** TODO [#B13] <capitalize>
+priority b4,<newline>*** TODO [#B14] <capitalize>
+priority b5,<newline>*** TODO [#B15] <capitalize>
+priority b6,<newline>*** TODO [#B16] <capitalize>
+priority b7,<newline>*** TODO [#B17] <capitalize>
+priority b8,<newline>*** TODO [#B18] <capitalize>
+priority b9,<newline>*** TODO [#B19] <capitalize>
+priority c,<newline>*** TODO [#C] <capitalize>
+priority c1,<newline>*** TODO [#C21] <capitalize>
+priority c2,<newline>*** TODO [#C22] <capitalize>
+priority c3,<newline>*** TODO [#C23] <capitalize>
+priority c4,<newline>*** TODO [#C24] <capitalize>
+priority c5,<newline>*** TODO [#C25] <capitalize>
+priority c6,<newline> ***TODO [#C26] <capitalize>
+priority c7,<newline>*** TODO [#C27] <capitalize>
+priority c8,<newline>*** TODO [#C28] <capitalize>
+priority c9,<newline>*** TODO [#C29] <capitalize>
+limit  bat 1 harp 2,<newline>*** TODO [#B11] (2) <capitalize>
+limit 4a 3b 3c,"<newline>*** TODO [#A1] (1) <capitalize>
+<newline>*** TODO [#A2] (1) <capitalize>
+<newline>*** TODO [#A3] (1) <capitalize>
+<newline>*** TODO [#A4] (1) <capitalize>
+<newline>*** TODO [#B11] (1) <capitalize>
+<newline>*** TODO [#B12] (1) <capitalize>
+<newline>*** TODO [#B13] (1) <capitalize>
+<newline>*** TODO [#C21] (1) <capitalize>
+<newline>*** TODO [#C22] (1) <capitalize>
+<newline>*** TODO [#C23] (1) <capitalize>"
+limit 4a 4b 4c,"limit A1 harp 1,<newline>*** TODO [#A1] (1) <capitalize>
+<newline>*** TODO [#A2] (1) <capitalize>
+<newline>*** TODO [#A3] (1) <capitalize>
+<newline>*** TODO [#A4] (1) <capitalize>
+<newline>*** TODO [#B11] (1) <capitalize>
+<newline>*** TODO [#B12] (1) <capitalize>
+<newline>*** TODO [#B13] (1) <capitalize>
+<newline>*** TODO [#B14] (1) <capitalize>
+<newline>*** TODO [#C21] (1) <capitalize>
+<newline>*** TODO [#C22] (1) <capitalize>
+<newline>*** TODO [#C23] (1) <capitalize>"
+limit 5a 3b 2c,"<newline>\begin{verbatim}
+*** TODO [#A1] (1) <capitalize>
+*** TODO [#A2] (1) <capitalize>
+*** TODO [#A3] (1) <capitalize>
+*** TODO [#A4] (1) <capitalize>
+*** TODO [#A5] (1) <capitalize>
+*** TODO [#B11] (1) <capitalize>
+*** TODO [#B12] (1) <capitalize>
+*** TODO [#B13] (1) <capitalize>
+*** TODO [#C21] (1) <capitalize>
+*** TODO [#C22] (1) <capitalize>
+\end{verbatim}"
+limit 5a 4b 3c,"limit A1 harp 1,<newline>*** TODO [#A1] (1) <capitalize>
+<newline>*** TODO [#A2] (1) <capitalize>
+<newline>*** TODO [#A3] (1) <capitalize>
+<newline>*** TODO [#A4] (1) <capitalize>
+<newline>*** TODO [#A5] (1) <capitalize>
+<newline>*** TODO [#B11] (1) <capitalize>
+<newline>*** TODO [#B12] (1) <capitalize>
+<newline>*** TODO [#B13] (1) <capitalize>
+<newline>*** TODO [#B14] (1) <capitalize>
+<newline>*** TODO [#C21] (1) <capitalize>
+<newline>*** TODO [#C22] (1) <capitalize>
+<newline>*** TODO [#C23] (1) <capitalize>"
+limit 5a3b2c,"<newline>*** TODO [#A1] (1) <capitalize>
+*** TODO [#A2] (1) <capitalize>
+*** TODO [#A3] (1) <capitalize>
+*** TODO [#A4] (1) <capitalize>
+*** TODO [#A5] (1) <capitalize>
+*** TODO [#B11] (1) <capitalize>
+*** TODO [#B12] (1) <capitalize>
+*** TODO [#B13] (1) <capitalize>
+*** TODO [#C21] (1) <capitalize>
+*** TODO [#C22] (1) <capitalize>"
+limit 6a 2b 2c,"limit A1 harp 1,<newline>*** TODO [#A1] (1) <capitalize>
+<newline>*** TODO [#A2] (1) <capitalize>
+<newline>*** TODO [#A3] (1) <capitalize>
+<newline>*** TODO [#A4] (1) <capitalize>
+<newline>*** TODO [#A5] (1) <capitalize>
+<newline>*** TODO [#A6] (1) <capitalize>
+<newline>*** TODO [#B11] (1) <capitalize>
+<newline>*** TODO [#B12] (1) <capitalize>
+<newline>*** TODO [#C21] (1) <capitalize>
+<newline>*** TODO [#C22] (1) <capitalize>"
+limit 6a 3b 1c,"limit A1 harp 1,<newline>*** TODO [#A1] (1) <capitalize>
+<newline>*** TODO [#A2] (1) <capitalize>
+<newline>*** TODO [#A3] (1) <capitalize>
+<newline>*** TODO [#A4] (1) <capitalize>
+<newline>*** TODO [#A5] (1) <capitalize>
+<newline>*** TODO [#A6] (1) <capitalize>
+<newline>*** TODO [#B11] (1) <capitalize>
+<newline>*** TODO [#B12] (1) <capitalize>
+<newline>*** TODO [#B13] (1) <capitalize>
+<newline>*** TODO [#C21] (1) <capitalize>"
+limit 6a 3b 3c,"limit A1 harp 1,<newline>*** TODO [#A1] (1) <capitalize>
+<newline>*** TODO [#A2] (1) <capitalize>
+<newline>*** TODO [#A3] (1) <capitalize>
+<newline>*** TODO [#A4] (1) <capitalize>
+<newline>*** TODO [#A5] (1) <capitalize>
+<newline>*** TODO [#A6] (1) <capitalize>
+<newline>*** TODO [#B11] (1) <capitalize>
+<newline>*** TODO [#B12] (1) <capitalize>
+<newline>*** TODO [#B13] (1) <capitalize>
+<newline>*** TODO [#C21] (1) <capitalize>
+<newline>*** TODO [#C22] (1) <capitalize>
+<newline>*** TODO [#C23] (1) <capitalize>"
+limit 8 for,<newline>*** TODO [#A8] (4) <capitalize>
+limit a 10 harp 1,<newline>*** TODO [#A10] (1) <capitalize>
+limit a 10 harp one,<newline>*** TODO [#A10] (1) <capitalize>
+limit a 10 heart one,<newline>*** TODO [#A10] (1) <capitalize>
+limit a five heart five,<newline>*** TODO [#A5] (5) <capitalize>
+limit a five heart four,<newline>*** TODO [#A4] (4) <capitalize>
+limit a four harp 3,<newline>*** TODO [#A4] (3) <capitalize>
+limit a four heart two,<newline>*** TODO [#A4] (2) <capitalize>
+limit a three heart five,<newline>*** TODO [#A3] (5) <capitalize>
+limit a two heart four,<newline>*** TODO [#A2] (4) <capitalize>
+limit a1 harp 1,<newline>*** TODO [#A1] (1) <capitalize>
+limit a1 harp 2,<newline>*** TODO [#A1] (2) <capitalize>
+limit a1 harp 3,<newline>*** TODO [#A1] (3) <capitalize>
+limit a1 harp 4,<newline>*** TODO [#A1] (4) <capitalize>
+limit a1 harp 5,<newline>*** TODO [#A1] (5) <capitalize>
+limit a1 heart 1,<newline>*** TODO [#A1] (1) <capitalize>
+limit a1 heart 2,<newline>*** TODO [#A1] (2) <capitalize>
+limit a1 heart 3,<newline>*** TODO [#A1] (3) <capitalize>
+limit a1 heart 4,<newline>*** TODO [#A1] (4) <capitalize>
+limit a1 heart 5,<newline>*** TODO [#A1] (5) <capitalize>
+limit a1 part 1,<newline>*** TODO [#A1] (1) <capitalize>
+limit a1 part 2,<newline>*** TODO [#A1] (2) <capitalize>
+limit a1 part 3,<newline>*** TODO [#A1] (3) <capitalize>
+limit a1 part 4,<newline>*** TODO [#A1] (4) <capitalize>
+limit a1 part 5,<newline>*** TODO [#A1] (5) <capitalize>
+limit a10 harp 1,<newline>*** TODO [#A10] (1) <capitalize>
+limit a10 harp 2,<newline>*** TODO [#A10] (2) <capitalize>
+limit a10 harp 3,<newline>*** TODO [#A10] (3) <capitalize>
+limit a10 harp 4,<newline>*** TODO [#A10] (4) <capitalize>
+limit a10 harp 5,<newline>*** TODO [#A10] (5) <capitalize>
+limit a10 heart 1,<newline>*** TODO [#A10] (1) <capitalize>
+limit a10 heart 2,<newline>*** TODO [#A10] (2) <capitalize>
+limit a10 heart 3,<newline>*** TODO [#A10] (3) <capitalize>
+limit a10 heart 4,<newline>*** TODO [#A10] (4) <capitalize>
+limit a10 heart 5,<newline>*** TODO [#A10] (5) <capitalize>
+limit a10 part 1,<newline>*** TODO [#A10] (1) <capitalize>
+limit a10 part 2,<newline>*** TODO [#A10] (2) <capitalize>
+limit a10 part 3,<newline>*** TODO [#A10] (3) <capitalize>
+limit a10 part 4,<newline>*** TODO [#A10] (4) <capitalize>
+limit a10 part 5,<newline>*** TODO [#A10] (5) <capitalize>
+limit a2 harp 1,<newline>*** TODO [#A2] (1) <capitalize>
+limit a2 harp 2,<newline>*** TODO [#A2] (2) <capitalize>
+limit a2 harp 3,<newline>*** TODO [#A2] (3) <capitalize>
+limit a2 harp 4,<newline>*** TODO [#A2] (4) <capitalize>
+limit a2 harp 5,<newline>*** TODO [#A2] (5) <capitalize>
+limit a2 heart 1,<newline>*** TODO [#A2] (1) <capitalize>
+limit a2 heart 2,<newline>*** TODO [#A2] (2) <capitalize>
+limit a2 heart 3,<newline>*** TODO [#A2] (3) <capitalize>
+limit a2 heart 4,<newline>*** TODO [#A2] (4) <capitalize>
+limit a2 heart 5,<newline>*** TODO [#A2] (5) <capitalize>
+limit a2 heart for,<newline>*** TODO [#A2] (4) <capitalize>
+limit a2 part 1,<newline>*** TODO [#A2] (1) <capitalize>
+limit a2 part 2,<newline>*** TODO [#A2] (2) <capitalize>
+limit a2 part 3,<newline>*** TODO [#A2] (3) <capitalize>
+limit a2 part 4,<newline>*** TODO [#A2] (4) <capitalize>
+limit a2 part 5,<newline>*** TODO [#A2] (5) <capitalize>
+limit a3 harp 1,<newline>*** TODO [#A3] (1) <capitalize>
+limit a3 harp 2,<newline>*** TODO [#A3] (2) <capitalize>
+limit a3 harp 3,<newline>*** TODO [#A3] (3) <capitalize>
+limit a3 harp 4,<newline>*** TODO [#A3] (4) <capitalize>
+limit a3 harp 5,<newline>*** TODO [#A3] (5) <capitalize>
+limit a3 heart 1,<newline>*** TODO [#A3] (1) <capitalize>
+limit a3 heart 2,<newline>*** TODO [#A3] (2) <capitalize>
+limit a3 heart 3,<newline>*** TODO [#A3] (3) <capitalize>
+limit a3 heart 4,<newline>*** TODO [#A3] (4) <capitalize>
+limit a3 heart 5,<newline>*** TODO [#A3] (5) <capitalize>
+limit a3 part 1,<newline>*** TODO [#A3] (1) <capitalize>
+limit a3 part 2,<newline>*** TODO [#A3] (2) <capitalize>
+limit a3 part 3,<newline>*** TODO [#A3] (3) <capitalize>
+limit a3 part 4,<newline>*** TODO [#A3] (4) <capitalize>
+limit a3 part 5,<newline>*** TODO [#A3] (5) <capitalize>
+limit a4 harp 1,<newline>*** TODO [#A4] (1) <capitalize>
+limit a4 harp 2,<newline>*** TODO [#A4] (2) <capitalize>
+limit a4 harp 3,<newline>*** TODO [#A4] (3) <capitalize>
+limit a4 harp 4,<newline>*** TODO [#A4] (4) <capitalize>
+limit a4 harp 5,<newline>*** TODO [#A4] (5) <capitalize>
+limit a4 heart 1,<newline>*** TODO [#A4] (1) <capitalize>
+limit a4 heart 2,<newline>*** TODO [#A4] (2) <capitalize>
+limit a4 heart 3,<newline>*** TODO [#A4] (3) <capitalize>
+limit a4 heart 4,<newline>*** TODO [#A4] (4) <capitalize>
+limit a4 heart 5,<newline>*** TODO [#A4] (5) <capitalize>
+limit a4 heart for,<newline>*** TODO [#A4] (4) <capitalize>
+limit a4 part 1,<newline>*** TODO [#A4] (1) <capitalize>
+limit a4 part 2,<newline>*** TODO [#A4] (2) <capitalize>
+limit a4 part 3,<newline>*** TODO [#A4] (3) <capitalize>
+limit a4 part 4,<newline>*** TODO [#A4] (4) <capitalize>
+limit a4 part 5,<newline>*** TODO [#A4] (5) <capitalize>
+limit a42,<newline>*** TODO [#A4] (2) <capitalize>
+limit a5 hard 4,<newline>*** TODO [#A5] (4) <capitalize>
+limit a5 hard 5,<newline>*** TODO [#A5] (5) <capitalize>
+limit a5 hardcore,<newline>*** TODO [#A5] (4) <capitalize>
+limit a5 harp 1,<newline>*** TODO [#A5] (1) <capitalize>
+limit a5 harp 2,<newline>*** TODO [#A5] (2) <capitalize>
+limit a5 harp 3,<newline>*** TODO [#A5] (3) <capitalize>
+limit a5 harp 4,<newline>*** TODO [#A5] (4) <capitalize>
+limit a5 harp 5,<newline>*** TODO [#A5] (5) <capitalize>
+limit a5 harp for,<newline>*** TODO [#A5] (4) <capitalize>
+limit a5 heart 1,<newline>*** TODO [#A5] (1) <capitalize>
+limit a5 heart 2,<newline>*** TODO [#A5] (2) <capitalize>
+limit a5 heart 3,<newline>*** TODO [#A5] (3) <capitalize>
+limit a5 heart 4,<newline>*** TODO [#A5] (4) <capitalize>
+limit a5 heart 5,<newline>*** TODO [#A5] (5) <capitalize>
+limit a5 part 1,<newline>*** TODO [#A5] (1) <capitalize>
+limit a5 part 2,<newline>*** TODO [#A5] (2) <capitalize>
+limit a5 part 3,<newline>*** TODO [#A5] (3) <capitalize>
+limit a5 part 4,<newline>*** TODO [#A5] (4) <capitalize>
+limit a5 part 5,<newline>*** TODO [#A5] (5) <capitalize>
+limit a6 harp 1,<newline>*** TODO [#A6] (1) <capitalize>
+limit a6 harp 2,<newline>*** TODO [#A6] (2) <capitalize>
+limit a6 harp 3,<newline>*** TODO [#A6] (3) <capitalize>
+limit a6 harp 4,<newline>*** TODO [#A6] (4) <capitalize>
+limit a6 harp 5,<newline>*** TODO [#A6] (5) <capitalize>
+limit a6 heart 1,<newline>*** TODO [#A6] (1) <capitalize>
+limit a6 heart 2,<newline>*** TODO [#A6] (2) <capitalize>
+limit a6 heart 3,<newline>*** TODO [#A6] (3) <capitalize>
+limit a6 heart 4,<newline>*** TODO [#A6] (4) <capitalize>
+limit a6 heart 5,<newline>*** TODO [#A6] (5) <capitalize>
+limit a6 heart one,<newline>*** TODO [#A6] (1) <capitalize>
+limit a6 part 1,<newline>*** TODO [#A6] (1) <capitalize>
+limit a6 part 2,<newline>*** TODO [#A6] (2) <capitalize>
+limit a6 part 3,<newline>*** TODO [#A6] (3) <capitalize>
+limit a6 part 4,<newline>*** TODO [#A6] (4) <capitalize>
+limit a6 part 5,<newline>*** TODO [#A6] (5) <capitalize>
+limit a7 1,<newline>*** TODO [#A7] (1) <capitalize>
+limit a7 harp 1,<newline>*** TODO [#A7] (1) <capitalize>
+limit a7 harp 2,<newline>*** TODO [#A7] (2) <capitalize>
+limit a7 harp 3,<newline>*** TODO [#A7] (3) <capitalize>
+limit a7 harp 4,<newline>*** TODO [#A7] (4) <capitalize>
+limit a7 harp 5,<newline>*** TODO [#A7] (5) <capitalize>
+limit a7 heart 1,<newline>*** TODO [#A7] (1) <capitalize>
+limit a7 heart 2,<newline>*** TODO [#A7] (2) <capitalize>
+limit a7 heart 3,<newline>*** TODO [#A7] (3) <capitalize>
+limit a7 heart 4,<newline>*** TODO [#A7] (4) <capitalize>
+limit a7 heart 5,<newline>*** TODO [#A7] (5) <capitalize>
+limit a7 part 1,<newline>*** TODO [#A7] (1) <capitalize>
+limit a7 part 2,<newline>*** TODO [#A7] (2) <capitalize>
+limit a7 part 3,<newline>*** TODO [#A7] (3) <capitalize>
+limit a7 part 4,<newline>*** TODO [#A7] (4) <capitalize>
+limit a7 part 5,<newline>*** TODO [#A7] (5) <capitalize>
+limit a8 harp 1,<newline>*** TODO [#A8] (1) <capitalize>
+limit a8 harp 2,<newline>*** TODO [#A8] (2) <capitalize>
+limit a8 harp 3,<newline>*** TODO [#A8] (3) <capitalize>
+limit a8 harp 4,<newline>*** TODO [#A8] (4) <capitalize>
+limit a8 harp 5,<newline>*** TODO [#A8] (5) <capitalize>
+limit a8 heart 1,<newline>*** TODO [#A8] (1) <capitalize>
+limit a8 heart 2,<newline>*** TODO [#A8] (2) <capitalize>
+limit a8 heart 3,<newline>*** TODO [#A8] (3) <capitalize>
+limit a8 heart 4,<newline>*** TODO [#A8] (4) <capitalize>
+limit a8 heart 5,<newline>*** TODO [#A8] (5) <capitalize>
+limit a8 heart one,<newline>*** TODO [#A8] (1) <capitalize>
+limit a8 part 1,<newline>*** TODO [#A8] (1) <capitalize>
+limit a8 part 2,<newline>*** TODO [#A8] (2) <capitalize>
+limit a8 part 3,<newline>*** TODO [#A8] (3) <capitalize>
+limit a8 part 4,<newline>*** TODO [#A8] (4) <capitalize>
+limit a8 part 5,<newline>*** TODO [#A8] (5) <capitalize>
+limit a9 harp 1,<newline>*** TODO [#A9] (1) <capitalize>
+limit a9 harp 2,<newline>*** TODO [#A9] (2) <capitalize>
+limit a9 harp 3,<newline>*** TODO [#A9] (3) <capitalize>
+limit a9 harp 4,<newline>*** TODO [#A9] (4) <capitalize>
+limit a9 harp 5,<newline>*** TODO [#A9] (5) <capitalize>
+limit a9 heart 1,<newline>*** TODO [#A9] (1) <capitalize>
+limit a9 heart 2,<newline>*** TODO [#A9] (2) <capitalize>
+limit a9 heart 3,<newline>*** TODO [#A9] (3) <capitalize>
+limit a9 heart 4,<newline>*** TODO [#A9] (4) <capitalize>
+limit a9 heart 5,<newline>*** TODO [#A9] (5) <capitalize>
+limit a9 part 1,<newline>*** TODO [#A9] (1) <capitalize>
+limit a9 part 2,<newline>*** TODO [#A9] (2) <capitalize>
+limit a9 part 3,<newline>*** TODO [#A9] (3) <capitalize>
+limit a9 part 4,<newline>*** TODO [#A9] (4) <capitalize>
+limit a9 part 5,<newline>*** TODO [#A9] (5) <capitalize>
+limit ace 8 harp 1,<newline>*** TODO [#A8] (1) <capitalize>
+limit air 1 harp 2,<newline>*** TODO [#A1] (2) <capitalize>
+limit air one part two,<newline>*** TODO [#A1] (2) <capitalize>
+limit b 7 harp 1,<newline>*** TODO [#B17] (1) <capitalize>
+limit b to harp 3,<newline>*** TODO [#B12] (3) <capitalize>
+limit b to heart four,<newline>*** TODO [#B12] (4) <capitalize>
+limit b too hard too,<newline>*** TODO [#B12] (2) <capitalize>
+limit b two harp 3,<newline>*** TODO [#B12] (3) <capitalize>
+limit b1 harp 1,<newline>*** TODO [#B11] (1) <capitalize>
+limit b1 harp 2,<newline>*** TODO [#B11] (2) <capitalize>
+limit b1 harp 3,<newline>*** TODO [#B11] (3) <capitalize>
+limit b1 harp 4,<newline>*** TODO [#B11] (4) <capitalize>
+limit b1 harp 5,<newline>*** TODO [#B11] (5) <capitalize>
+limit b1 harp one,<newline>*** TODO [#B11] (1) <capitalize>
+limit b1 heart 1,<newline>*** TODO [#B11] (1) <capitalize>
+limit b1 heart 2,<newline>*** TODO [#B11] (2) <capitalize>
+limit b1 heart 3,<newline>*** TODO [#B11] (3) <capitalize>
+limit b1 heart 4,<newline>*** TODO [#B11] (4) <capitalize>
+limit b1 heart 5,<newline>*** TODO [#B11] (5) <capitalize>
+limit b1 part 1,<newline>*** TODO [#B11] (1) <capitalize>
+limit b1 part 2,<newline>*** TODO [#B11] (2) <capitalize>
+limit b1 part 3,<newline>*** TODO [#B11] (3) <capitalize>
+limit b1 part 4,<newline>*** TODO [#B11] (4) <capitalize>
+limit b1 part 5,<newline>*** TODO [#B11] (5) <capitalize>
+limit b10 hard 4,<newline>*** TODO [#B20] (4) <capitalize>
+limit b10 hard for,<newline>*** TODO [#B20] (4) <capitalize>
+limit b10 hard four,<newline>*** TODO [#B20] (4) <capitalize>
+limit b10 harp 1,<newline>*** TODO [#B20] (1) <capitalize>
+limit b10 harp 2,<newline>*** TODO [#B20] (2) <capitalize>
+limit b10 harp 3,<newline>*** TODO [#B20] (3) <capitalize>
+limit b10 harp 4,<newline>*** TODO [#B20] (4) <capitalize>
+limit b10 harp 5,<newline>*** TODO [#B20] (5) <capitalize>
+limit b10 heart 1,<newline>*** TODO [#B20] (1) <capitalize>
+limit b10 heart 2,<newline>*** TODO [#B20] (2) <capitalize>
+limit b10 heart 3,<newline>*** TODO [#B20] (3) <capitalize>
+limit b10 heart 4,<newline>*** TODO [#B20] (4) <capitalize>
+limit b10 heart 5,<newline>*** TODO [#B20] (5) <capitalize>
+limit b10 part 1,<newline>*** TODO [#B20] (1) <capitalize>
+limit b10 part 2,<newline>*** TODO [#B20] (2) <capitalize>
+limit b10 part 3,<newline>*** TODO [#B20] (3) <capitalize>
+limit b10 part 4,<newline>*** TODO [#B20] (4) <capitalize>
+limit b10 part 5,<newline>*** TODO [#B20] (5) <capitalize>
+limit b2 harp 1,<newline>*** TODO [#B12] (1) <capitalize>
+limit b2 harp 2,<newline>*** TODO [#B12] (2) <capitalize>
+limit b2 harp 3,<newline>*** TODO [#B12] (3) <capitalize>
+limit b2 harp 4,<newline>*** TODO [#B12] (4) <capitalize>
+limit b2 harp 5,<newline>*** TODO [#B12] (5) <capitalize>
+limit b2 heart 1,<newline>*** TODO [#B12] (1) <capitalize>
+limit b2 heart 2,<newline>*** TODO [#B12] (2) <capitalize>
+limit b2 heart 3,<newline>*** TODO [#B12] (3) <capitalize>
+limit b2 heart 4,<newline>*** TODO [#B12] (4) <capitalize>
+limit b2 heart 5,<newline>*** TODO [#B12] (5) <capitalize>
+limit b2 part 1,<newline>*** TODO [#B12] (1) <capitalize>
+limit b2 part 2,<newline>*** TODO [#B12] (2) <capitalize>
+limit b2 part 3,<newline>*** TODO [#B12] (3) <capitalize>
+limit b2 part 4,<newline>*** TODO [#B12] (4) <capitalize>
+limit b2 part 5,<newline>*** TODO [#B12] (5) <capitalize>
+limit b3 harp 1,<newline>*** TODO [#B13] (1) <capitalize>
+limit b3 harp 2,<newline>*** TODO [#B13] (2) <capitalize>
+limit b3 harp 3,<newline>*** TODO [#B13] (3) <capitalize>
+limit b3 harp 4,<newline>*** TODO [#B13] (4) <capitalize>
+limit b3 harp 5,<newline>*** TODO [#B13] (5) <capitalize>
+limit b3 heart 1,<newline>*** TODO [#B13] (1) <capitalize>
+limit b3 heart 2,<newline>*** TODO [#B13] (2) <capitalize>
+limit b3 heart 3,<newline>*** TODO [#B13] (3) <capitalize>
+limit b3 heart 4,<newline>*** TODO [#B13] (4) <capitalize>
+limit b3 heart 5,<newline>*** TODO [#B13] (5) <capitalize>
+limit b3 part 1,<newline>*** TODO [#B13] (1) <capitalize>
+limit b3 part 2,<newline>*** TODO [#B13] (2) <capitalize>
+limit b3 part 3,<newline>*** TODO [#B13] (3) <capitalize>
+limit b3 part 4,<newline>*** TODO [#B13] (4) <capitalize>
+limit b3 part 5,<newline>*** TODO [#B13] (5) <capitalize>
+limit b4 harp 1,<newline>*** TODO [#B14] (1) <capitalize>
+limit b4 harp 2,<newline>*** TODO [#B14] (2) <capitalize>
+limit b4 harp 3,<newline>*** TODO [#B14] (3) <capitalize>
+limit b4 harp 4,<newline>*** TODO [#B14] (4) <capitalize>
+limit b4 harp 5,<newline>*** TODO [#B14] (5) <capitalize>
+limit b4 heart 1,<newline>*** TODO [#B14] (1) <capitalize>
+limit b4 heart 2,<newline>*** TODO [#B14] (2) <capitalize>
+limit b4 heart 3,<newline>*** TODO [#B14] (3) <capitalize>
+limit b4 heart 4,<newline>*** TODO [#B14] (4) <capitalize>
+limit b4 heart 5,<newline>*** TODO [#B14] (5) <capitalize>
+limit b4 part 1,<newline>*** TODO [#B14] (1) <capitalize>
+limit b4 part 2,<newline>*** TODO [#B14] (2) <capitalize>
+limit b4 part 3,<newline>*** TODO [#B14] (3) <capitalize>
+limit b4 part 4,<newline>*** TODO [#B14] (4) <capitalize>
+limit b4 part 5,<newline>*** TODO [#B14] (5) <capitalize>
+limit b5 hard 5,<newline>*** TODO [#B15] (5) <capitalize>
+limit b5 harp 1,<newline>*** TODO [#B15] (1) <capitalize>
+limit b5 harp 2,<newline>*** TODO [#B15] (2) <capitalize>
+limit b5 harp 3,<newline>*** TODO [#B15] (3) <capitalize>
+limit b5 harp 4,<newline>*** TODO [#B15] (4) <capitalize>
+limit b5 harp 5,<newline>*** TODO [#B15] (5) <capitalize>
+limit b5 heart 1,<newline>*** TODO [#B15] (1) <capitalize>
+limit b5 heart 2,<newline>*** TODO [#B15] (2) <capitalize>
+limit b5 heart 3,<newline>*** TODO [#B15] (3) <capitalize>
+limit b5 heart 4,<newline>*** TODO [#B15] (4) <capitalize>
+limit b5 heart 5,<newline>*** TODO [#B15] (5) <capitalize>
+limit b5 part 1,<newline>*** TODO [#B15] (1) <capitalize>
+limit b5 part 2,<newline>*** TODO [#B15] (2) <capitalize>
+limit b5 part 3,<newline>*** TODO [#B15] (3) <capitalize>
+limit b5 part 4,<newline>*** TODO [#B15] (4) <capitalize>
+limit b5 part 5,<newline>*** TODO [#B15] (5) <capitalize>
+limit b6 hard 5,<newline>*** TODO [#B16] (5) <capitalize>
+limit b6 harp 1,<newline>*** TODO [#B16] (1) <capitalize>
+limit b6 harp 2,<newline>*** TODO [#B16] (2) <capitalize>
+limit b6 harp 3,<newline>*** TODO [#B16] (3) <capitalize>
+limit b6 harp 4,<newline>*** TODO [#B16] (4) <capitalize>
+limit b6 harp 5,<newline>*** TODO [#B16] (5) <capitalize>
+limit b6 heart 1,<newline>*** TODO [#B16] (1) <capitalize>
+limit b6 heart 2,<newline>*** TODO [#B16] (2) <capitalize>
+limit b6 heart 3,<newline>*** TODO [#B16] (3) <capitalize>
+limit b6 heart 4,<newline>*** TODO [#B16] (4) <capitalize>
+limit b6 heart 5,<newline>*** TODO [#B16] (5) <capitalize>
+limit b6 part 1,<newline>*** TODO [#B16] (1) <capitalize>
+limit b6 part 2,<newline>*** TODO [#B16] (2) <capitalize>
+limit b6 part 3,<newline>*** TODO [#B16] (3) <capitalize>
+limit b6 part 4,<newline>*** TODO [#B16] (4) <capitalize>
+limit b6 part 5,<newline>*** TODO [#B16] (5) <capitalize>
+limit b7 harp 1,<newline>*** TODO [#B17] (1) <capitalize>
+limit b7 harp 2,<newline>*** TODO [#B17] (2) <capitalize>
+limit b7 harp 3,<newline>*** TODO [#B17] (3) <capitalize>
+limit b7 harp 4,<newline>*** TODO [#B17] (4) <capitalize>
+limit b7 harp 5,<newline>*** TODO [#B17] (5) <capitalize>
+limit b7 heart 1,<newline>*** TODO [#B17] (1) <capitalize>
+limit b7 heart 2,<newline>*** TODO [#B17] (2) <capitalize>
+limit b7 heart 3,<newline>*** TODO [#B17] (3) <capitalize>
+limit b7 heart 4,<newline>*** TODO [#B17] (4) <capitalize>
+limit b7 heart 5,<newline>*** TODO [#B17] (5) <capitalize>
+limit b7 part 1,<newline>*** TODO [#B17] (1) <capitalize>
+limit b7 part 2,<newline>*** TODO [#B17] (2) <capitalize>
+limit b7 part 3,<newline>*** TODO [#B17] (3) <capitalize>
+limit b7 part 4,<newline>*** TODO [#B17] (4) <capitalize>
+limit b7 part 5,<newline>*** TODO [#B17] (5) <capitalize>
+limit b8 harp 1,<newline>*** TODO [#B18] (1) <capitalize>
+limit b8 harp 2,<newline>*** TODO [#B18] (2) <capitalize>
+limit b8 harp 3,<newline>*** TODO [#B18] (3) <capitalize>
+limit b8 harp 4,<newline>*** TODO [#B18] (4) <capitalize>
+limit b8 harp 5,<newline>*** TODO [#B18] (5) <capitalize>
+limit b8 heart 1,<newline>*** TODO [#B18] (1) <capitalize>
+limit b8 heart 2,<newline>*** TODO [#B18] (2) <capitalize>
+limit b8 heart 3,<newline>*** TODO [#B18] (3) <capitalize>
+limit b8 heart 4,<newline>*** TODO [#B18] (4) <capitalize>
+limit b8 heart 5,<newline>*** TODO [#B18] (5) <capitalize>
+limit b8 part 1,<newline>*** TODO [#B18] (1) <capitalize>
+limit b8 part 2,<newline>*** TODO [#B18] (2) <capitalize>
+limit b8 part 3,<newline>*** TODO [#B18] (3) <capitalize>
+limit b8 part 4,<newline>*** TODO [#B18] (4) <capitalize>
+limit b8 part 5,<newline>*** TODO [#B18] (5) <capitalize>
+limit b9 harp 1,<newline>*** TODO [#B19] (1) <capitalize>
+limit b9 harp 2,<newline>*** TODO [#B19] (2) <capitalize>
+limit b9 harp 3,<newline>*** TODO [#B19] (3) <capitalize>
+limit b9 harp 4,<newline>*** TODO [#B19] (4) <capitalize>
+limit b9 harp 5,<newline>*** TODO [#B19] (5) <capitalize>
+limit b9 heart 1,<newline>*** TODO [#B19] (1) <capitalize>
+limit b9 heart 2,<newline>*** TODO [#B19] (2) <capitalize>
+limit b9 heart 3,<newline>*** TODO [#B19] (3) <capitalize>
+limit b9 heart 4,<newline>*** TODO [#B19] (4) <capitalize>
+limit b9 heart 5,<newline>*** TODO [#B19] (5) <capitalize>
+limit b9 part 1,<newline>*** TODO [#B19] (1) <capitalize>
+limit b9 part 2,<newline>*** TODO [#B19] (2) <capitalize>
+limit b9 part 3,<newline>*** TODO [#B19] (3) <capitalize>
+limit b9 part 4,<newline>*** TODO [#B19] (4) <capitalize>
+limit b9 part 5,<newline>*** TODO [#B19] (5) <capitalize>
+limit bat 1 part 2,<newline>*** TODO [#B11] (2) <capitalize>
+limit bat one part two,<newline>*** TODO [#B11] (2) <capitalize>
+limit before harp 1,<newline>*** TODO [#B14] (1) <capitalize>
+limit c1 harp 1,<newline>*** TODO [#C21] (1) <capitalize>
+limit c1 harp 2,<newline>*** TODO [#C21] (2) <capitalize>
+limit c1 harp 3,<newline>*** TODO [#C21] (3) <capitalize>
+limit c1 harp 4,<newline>*** TODO [#C21] (4) <capitalize>
+limit c1 harp 5,<newline>*** TODO [#C21] (5) <capitalize>
+limit c1 heart 1,<newline>*** TODO [#C21] (1) <capitalize>
+limit c1 heart 2,<newline>*** TODO [#C21] (2) <capitalize>
+limit c1 heart 3,<newline>*** TODO [#C21] (3) <capitalize>
+limit c1 heart 4,<newline>*** TODO [#C21] (4) <capitalize>
+limit c1 heart 5,<newline>*** TODO [#C21] (5) <capitalize>
+limit c1 part 1,<newline>*** TODO [#C21] (1) <capitalize>
+limit c1 part 2,<newline>*** TODO [#C21] (2) <capitalize>
+limit c1 part 3,<newline>*** TODO [#C21] (3) <capitalize>
+limit c1 part 4,<newline>*** TODO [#C21] (4) <capitalize>
+limit c1 part 5,<newline>*** TODO [#C21] (5) <capitalize>
+limit c10 harp 1,<newline>*** TODO [#C30] (1) <capitalize>
+limit c10 harp 2,<newline>*** TODO [#C30] (2) <capitalize>
+limit c10 harp 3,<newline>*** TODO [#C30] (3) <capitalize>
+limit c10 harp 4,<newline>*** TODO [#C30] (4) <capitalize>
+limit c10 harp 5,<newline>*** TODO [#C30] (5) <capitalize>
+limit c10 heart 1,<newline>*** TODO [#C30] (1) <capitalize>
+limit c10 heart 2,<newline>*** TODO [#C30] (2) <capitalize>
+limit c10 heart 3,<newline>*** TODO [#C30] (3) <capitalize>
+limit c10 heart 4,<newline>*** TODO [#C30] (4) <capitalize>
+limit c10 heart 5,<newline>*** TODO [#C30] (5) <capitalize>
+limit c10 part 1,<newline>*** TODO [#C30] (1) <capitalize>
+limit c10 part 2,<newline>*** TODO [#C30] (2) <capitalize>
+limit c10 part 3,<newline>*** TODO [#C30] (3) <capitalize>
+limit c10 part 4,<newline>*** TODO [#C30] (4) <capitalize>
+limit c10 part 5,<newline>*** TODO [#C30] (5) <capitalize>
+limit c2 harp 1,<newline>*** TODO [#C22] (1) <capitalize>
+limit c2 harp 2,<newline>*** TODO [#C22] (2) <capitalize>
+limit c2 harp 3,<newline>*** TODO [#C22] (3) <capitalize>
+limit c2 harp 4,<newline>*** TODO [#C22] (4) <capitalize>
+limit c2 harp 5,<newline>*** TODO [#C22] (5) <capitalize>
+limit c2 heart 1,<newline>*** TODO [#C22] (1) <capitalize>
+limit c2 heart 2,<newline>*** TODO [#C22] (2) <capitalize>
+limit c2 heart 3,<newline>*** TODO [#C22] (3) <capitalize>
+limit c2 heart 4,<newline>*** TODO [#C22] (4) <capitalize>
+limit c2 heart 5,<newline>*** TODO [#C22] (5) <capitalize>
+limit c2 part 1,<newline>*** TODO [#C22] (1) <capitalize>
+limit c2 part 2,<newline>*** TODO [#C22] (2) <capitalize>
+limit c2 part 3,<newline>*** TODO [#C22] (3) <capitalize>
+limit c2 part 4,<newline>*** TODO [#C22] (4) <capitalize>
+limit c2 part 5,<newline>*** TODO [#C22] (5) <capitalize>
+limit c3 harp 1,<newline>*** TODO [#C23] (1) <capitalize>
+limit c3 harp 2,<newline>*** TODO [#C23] (2) <capitalize>
+limit c3 harp 3,<newline>*** TODO [#C23] (3) <capitalize>
+limit c3 harp 4,<newline>*** TODO [#C23] (4) <capitalize>
+limit c3 harp 5,<newline>*** TODO [#C23] (5) <capitalize>
+limit c3 heart 1,<newline>*** TODO [#C23] (1) <capitalize>
+limit c3 heart 2,<newline>*** TODO [#C23] (2) <capitalize>
+limit c3 heart 3,<newline>*** TODO [#C23] (3) <capitalize>
+limit c3 heart 4,<newline>*** TODO [#C23] (4) <capitalize>
+limit c3 heart 5,<newline>*** TODO [#C23] (5) <capitalize>
+limit c3 part 1,<newline>*** TODO [#C23] (1) <capitalize>
+limit c3 part 2,<newline>*** TODO [#C23] (2) <capitalize>
+limit c3 part 3,<newline>*** TODO [#C23] (3) <capitalize>
+limit c3 part 4,<newline>*** TODO [#C23] (4) <capitalize>
+limit c3 part 5,<newline>*** TODO [#C23] (5) <capitalize>
+limit c3harp 1,<newline>*** TODO [#C23] (1) <capitalize>
+limit c4 harp 1,<newline>*** TODO [#C24] (1) <capitalize>
+limit c4 harp 2,<newline>*** TODO [#C24] (2) <capitalize>
+limit c4 harp 3,<newline>*** TODO [#C24] (3) <capitalize>
+limit c4 harp 4,<newline>*** TODO [#C24] (4) <capitalize>
+limit c4 harp 5,<newline>*** TODO [#C24] (5) <capitalize>
+limit c4 heart 1,<newline>*** TODO [#C24] (1) <capitalize>
+limit c4 heart 2,<newline>*** TODO [#C24] (2) <capitalize>
+limit c4 heart 3,<newline>*** TODO [#C24] (3) <capitalize>
+limit c4 heart 4,<newline>*** TODO [#C24] (4) <capitalize>
+limit c4 heart 5,<newline>*** TODO [#C24] (5) <capitalize>
+limit c4 part 1,<newline>*** TODO [#C24] (1) <capitalize>
+limit c4 part 2,<newline>*** TODO [#C24] (2) <capitalize>
+limit c4 part 3,<newline>*** TODO [#C24] (3) <capitalize>
+limit c4 part 4,<newline>*** TODO [#C24] (4) <capitalize>
+limit c4 part 5,<newline>*** TODO [#C24] (5) <capitalize>
+limit c5 harp 1,<newline>*** TODO [#C25] (1) <capitalize>
+limit c5 harp 2,<newline>*** TODO [#C25] (2) <capitalize>
+limit c5 harp 3,<newline>*** TODO [#C25] (3) <capitalize>
+limit c5 harp 4,<newline>*** TODO [#C25] (4) <capitalize>
+limit c5 harp 5,<newline>*** TODO [#C25] (5) <capitalize>
+limit c5 heart 1,<newline>*** TODO [#C25] (1) <capitalize>
+limit c5 heart 2,<newline>*** TODO [#C25] (2) <capitalize>
+limit c5 heart 3,<newline>*** TODO [#C25] (3) <capitalize>
+limit c5 heart 4,<newline>*** TODO [#C25] (4) <capitalize>
+limit c5 heart 5,<newline>*** TODO [#C25] (5) <capitalize>
+limit c5 part 1,<newline>*** TODO [#C25] (1) <capitalize>
+limit c5 part 2,<newline>*** TODO [#C25] (2) <capitalize>
+limit c5 part 3,<newline>*** TODO [#C25] (3) <capitalize>
+limit c5 part 4,<newline>*** TODO [#C25] (4) <capitalize>
+limit c5 part 5,<newline>*** TODO [#C25] (5) <capitalize>
+limit c6 harp 1,<newline>*** TODO [#C26] (1) <capitalize>
+limit c6 harp 2,<newline>*** TODO [#C26] (2) <capitalize>
+limit c6 harp 3,<newline>*** TODO [#C26] (3) <capitalize>
+limit c6 harp 4,<newline>*** TODO [#C26] (4) <capitalize>
+limit c6 harp 5,<newline>*** TODO [#C26] (5) <capitalize>
+limit c6 heart 1,<newline>*** TODO [#C26] (1) <capitalize>
+limit c6 heart 2,<newline>*** TODO [#C26] (2) <capitalize>
+limit c6 heart 3,<newline>*** TODO [#C26] (3) <capitalize>
+limit c6 heart 4,<newline>*** TODO [#C26] (4) <capitalize>
+limit c6 heart 5,<newline>*** TODO [#C26] (5) <capitalize>
+limit c6 part 1,<newline>*** TODO [#C26] (1) <capitalize>
+limit c6 part 2,<newline>*** TODO [#C26] (2) <capitalize>
+limit c6 part 3,<newline>*** TODO [#C26] (3) <capitalize>
+limit c6 part 4,<newline>*** TODO [#C26] (4) <capitalize>
+limit c6 part 5,<newline>*** TODO [#C26] (5) <capitalize>
+limit c7 harp 1,<newline>*** TODO [#C27] (1) <capitalize>
+limit c7 harp 2,<newline>*** TODO [#C27] (2) <capitalize>
+limit c7 harp 3,<newline>*** TODO [#C27] (3) <capitalize>
+limit c7 harp 4,<newline>*** TODO [#C27] (4) <capitalize>
+limit c7 harp 5,<newline>*** TODO [#C27] (5) <capitalize>
+limit c7 heart 1,<newline>*** TODO [#C27] (1) <capitalize>
+limit c7 heart 2,<newline>*** TODO [#C27] (2) <capitalize>
+limit c7 heart 3,<newline>*** TODO [#C27] (3) <capitalize>
+limit c7 heart 4,<newline>*** TODO [#C27] (4) <capitalize>
+limit c7 heart 5,<newline>*** TODO [#C27] (5) <capitalize>
+limit c7 part 1,<newline>*** TODO [#C27] (1) <capitalize>
+limit c7 part 2,<newline>*** TODO [#C27] (2) <capitalize>
+limit c7 part 3,<newline>*** TODO [#C27] (3) <capitalize>
+limit c7 part 4,<newline>*** TODO [#C27] (4) <capitalize>
+limit c7 part 5,<newline>*** TODO [#C27] (5) <capitalize>
+limit c8 harp 1,<newline>*** TODO [#C28] (1) <capitalize>
+limit c8 harp 2,<newline>*** TODO [#C28] (2) <capitalize>
+limit c8 harp 3,<newline>*** TODO [#C28] (3) <capitalize>
+limit c8 harp 4,<newline>*** TODO [#C28] (4) <capitalize>
+limit c8 harp 5,<newline>*** TODO [#C28] (5) <capitalize>
+limit c8 heart 1,<newline>*** TODO [#C28] (1) <capitalize>
+limit c8 heart 2,<newline>*** TODO [#C28] (2) <capitalize>
+limit c8 heart 3,<newline>*** TODO [#C28] (3) <capitalize>
+limit c8 heart 4,<newline>*** TODO [#C28] (4) <capitalize>
+limit c8 heart 5,<newline>*** TODO [#C28] (5) <capitalize>
+limit c8 part 1,<newline>*** TODO [#C28] (1) <capitalize>
+limit c8 part 2,<newline>*** TODO [#C28] (2) <capitalize>
+limit c8 part 3,<newline>*** TODO [#C28] (3) <capitalize>
+limit c8 part 4,<newline>*** TODO [#C28] (4) <capitalize>
+limit c8 part 5,<newline>*** TODO [#C28] (5) <capitalize>
+limit c9 harp 1,<newline>*** TODO [#C29] (1) <capitalize>
+limit c9 harp 2,<newline>*** TODO [#C29] (2) <capitalize>
+limit c9 harp 3,<newline>*** TODO [#C29] (3) <capitalize>
+limit c9 harp 4,<newline>*** TODO [#C29] (4) <capitalize>
+limit c9 harp 5,<newline>*** TODO [#C29] (5) <capitalize>
+limit c9 heart 1,<newline>*** TODO [#C29] (1) <capitalize>
+limit c9 heart 2,<newline>*** TODO [#C29] (2) <capitalize>
+limit c9 heart 3,<newline>*** TODO [#C29] (3) <capitalize>
+limit c9 heart 4,<newline>*** TODO [#C29] (4) <capitalize>
+limit c9 heart 5,<newline>*** TODO [#C29] (5) <capitalize>
+limit c9 part 1,<newline>*** TODO [#C29] (1) <capitalize>
+limit c9 part 2,<newline>*** TODO [#C29] (2) <capitalize>
+limit c9 part 3,<newline>*** TODO [#C29] (3) <capitalize>
+limit c9 part 4,<newline>*** TODO [#C29] (4) <capitalize>
+limit c9 part 5,<newline>*** TODO [#C29] (5) <capitalize>
+limit d1 harp 3,<newline>*** TODO [#B11] (3) <capitalize>
+limit d1 harp 5,<newline>*** TODO [#B11] (5) <capitalize>
+limit d3 hard 5,<newline>*** TODO [#B13] (5) <capitalize>
+limit d3 harp 5,<newline>*** TODO [#B13] (5) <capitalize>
+limit d3 part 5,<newline>*** TODO [#B13] (5) <capitalize>
+limit d5 part 4,<newline>*** TODO [#B15] (4) <capitalize>
+limit d8 harp 4,<newline>*** TODO [#B18] (4) <capitalize>
+limit e62,<newline>*** TODO [#B16] (1) <capitalize>
+limit the 10 harp 5,<newline>*** TODO [#B20] (5) <capitalize>
+limit the five heart 1,<newline>*** TODO [#C25] (1) <capitalize>
+limit the five heart 2,<newline>*** TODO [#C25] (2) <capitalize>
+limit the five heart 3,<newline>*** TODO [#C25] (3) <capitalize>
+limit the five heart 4,<newline>*** TODO [#C25] (4) <capitalize>
+limit the five heart 5,<newline>*** TODO [#C25] (5) <capitalize>
+limit the five heart five,<newline>*** TODO [#C25] (5) <capitalize>
+limit the five heart four,<newline>*** TODO [#C25] (4) <capitalize>
+limit the five heart i,<newline>*** TODO [#C25] (1) <capitalize>
+limit the five heart ii,<newline>*** TODO [#C25] (2) <capitalize>
+limit the five heart iii,<newline>*** TODO [#C25] (3) <capitalize>
+limit the five heart iv,<newline>*** TODO [#C25] (4) <capitalize>
+limit the five heart one,<newline>*** TODO [#C25] (1) <capitalize>
+limit the five heart three,<newline>*** TODO [#C25] (3) <capitalize>
+limit the five heart two,<newline>*** TODO [#C25] (2) <capitalize>
+limit the five heart v,<newline>*** TODO [#C25] (5) <capitalize>
+limit the one harp 5,<newline>*** TODO [#B11] (5) <capitalize>
+limit the two harp 3,<newline>*** TODO [#B12] (3) <capitalize>
+limit the two harp 4,<newline>*** TODO [#B12] (4) <capitalize>
+limit the two harp 5,<newline>*** TODO [#B12] (5) <capitalize>
+limit the two harp one,<newline>*** TODO [#B12] (1) <capitalize>
+limit the two heart four,<newline>*** TODO [#B12] (4) <capitalize>
+limit the two heart two,<newline>*** TODO [#B12] (2) <capitalize>
+limit v1 harp 5,<newline>*** TODO [#B11] (5) <capitalize>
+limit v6 harp 2,<newline>*** TODO [#B16] (1) <capitalize>
+limit v8 harp 1,<newline>*** TODO [#B18] (1) <capitalize>
+limited c 1 h 2,<newline>*** TODO [#C1] (2) <capitalize>
+limited cap 1 harp 2,<newline>*** TODO [#C1] (2) <capitalize>
+limited cap 1 part 2,<newline>*** TODO [#C1] (2) <capitalize>
+limited cap on harp 2,<newline>*** TODO [#C1] (2) <capitalize>
+limited cap on harp two,<newline>*** TODO [#C1] (2) <capitalize>
+limited cap one harp 2,<newline>*** TODO [#C1] (2) <capitalize>
+limited cap one heart 2,<newline>*** TODO [#C1] (2) <capitalize>
+limited cap one heart two,<newline>*** TODO [#C1] (2) <capitalize>
+limited cap one part two,<newline>*** TODO [#C1] (2) <capitalize>
+limited capital and harp 2,<newline>*** TODO [#C1] (2) <capitalize>
+limited capital and harp two,<newline>*** TODO [#C1] (2) <capitalize>
