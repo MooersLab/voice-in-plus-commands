@@ -27,6 +27,7 @@ The full version of my command library includes
 - expansions of name of colleagues
 - commands to open favorite web pages
 - LaTeX boilerplate
+- open specific websites in browser (e.g. `open PubMed',`open Google Scholar',`open PDB',`open LBSF', `open OCSB')
 
 I use contractions in my speech, but I do not want them in my writing.
 I mapped all the contractions that I could find to their expansions.
