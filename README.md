@@ -1,3 +1,7 @@
+![Version](https://img.shields.io/static/v1?label=voice-in-plus-commands=0.1&color=brightcolor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+
 # voice-in-plus-commands: Fix annoyances with dictated text and open favorite web pages by voice
 
 ## Purpose
