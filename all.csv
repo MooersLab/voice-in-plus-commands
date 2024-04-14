@@ -47,9 +47,9 @@ double expand ssrl uec,Stanford Synchtron Radiation Lightsource Users Executive 
 dunno,do not know
 eac,EAC
 edit command,<open:chrome-extension://pjnefijmagpdjfhhkpljicbbpicelgko/settings.html#voice-commands>
-edit commands,<open:chrome-extension://pjnefijmagpdjfhhkpljicbbpicelgko/settings.html#voice-commands>,true
+edit commands,<open:chrome-extension://pjnefijmagpdjfhhkpljicbbpicelgko/settings.html#voice-commands>
 edit voice in command,<open:chrome-extension://pjnefijmagpdjfhhkpljicbbpicelgko/settings.html#voice-commands>
-edit voice in commands,<open:chrome-extension://pjnefijmagpdjfhhkpljicbbpicelgko/settings.html#voice-commands>,true
+edit voice in commands,<open:chrome-extension://pjnefijmagpdjfhhkpljicbbpicelgko/settings.html#voice-commands>
 eerybody's,everybody has
 emacs conference,emacsconf
 emax,Emacs
@@ -855,8 +855,8 @@ rely on,Relion
 riding log,writing log
 right over,Write over
 right over ,write over 
-s batch file,*.sbatch file,true
-s-patch file,*.sbatch file,true
+s batch file,*.sbatch file
+s-patch file,*.sbatch file
 sad,SAD
 sas,small angle scattering
 saxs,SAXS
