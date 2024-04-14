@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/static/v1?label=voice-in-plus-commands=0.1&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=voice-in-plus-commands&message=0.2&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
@@ -6,8 +6,8 @@
 
 ## Purpose
 
-I share this library to help others add voice-to-text to their work flows. 
-I expect that this library will be used largely to inspire the creation of commands that are more relevant to the reader.
+I share this library to help others add voice-to-text to their workflows. 
+This library will be used largely to inspire the creation of commands that are more relevant to the reader.
 
 ## Disclaimer
 This is a programming tool, not an educational tool.
@@ -33,32 +33,34 @@ The full version of my command library includes
 - LaTeX boilerplate
 - open specific websites in browser (e.g., `open PubMed`, `open Google Scholar`, `open PDB`, `open LBSF`, `open OCSB`, `open weather forecast`)
 
-I use contractions in my speech, but I do not want them in my writing.
+I use contractions in my speech but do not want them in my writing.
 I mapped all the contractions that I could find to their expansions.
 Whenever I say a contraction, it is expanded automatically as the software transcribes the text.
 
 It is easy to expand acronyms from memory into the wrong phrase.
 Their inclusion in the library eliminates the need to look them up more than once.
 If I say the command `expand XXX`, acronym XXX is expanded immediately after it is spoken.
-The expansions of acronyms negate the need of having to look them up again and again to check that they are correct.
+The expansions of acronyms negate the need to look them up again and again to ensure that they are correct.
 
 I also include expansions of the names of colleagues from their first name to their full name.
-This ensures that the spelling of the last name is correct and that I do not have to look up the spelling repeatedly.
+This ensures that the spelling of the last name is correct and that I do not have to look it up repeatedly.
 These types of commands were removed to protect the identity of my colleagues.
 
-I can imagine mapping voice commands to insert cite keys to standard citations for specific software and methods and to key equations.
-This kind of information is very domain specific and not included here.
+I can imagine mapping voice commands to insert cite keys to standard citations for standard methods and to key equations.
+This kind of information is domain-specific and not included here.
+Instead, I have set up several domain-specific libraries in separate repositories so that users can download only those collections of voice snippets relevant to their work.
+See [Voice Computing](https://github.com/MooersLab/MooersLab?tab=readme-ov-file#voice-computing) section of the MooersLab landing page for hyperlinks to these repositories.
 
 By using a voice command to navigate to a favorite web page, you can keep your fingers on the keyboard.
-It is also faster to use a voice command to navigate to a desired page than to have to use the mouse cursor to navigate to that web page.
+It is also faster to use a voice command to navigate to a desired page than to use the mouse cursor to navigate to that web page.
 
 Most of my writing is done in LaTeX.
-The [overleaf.com](https://www.overleaf.com/about/features-overview) webservice makes writing in LaTeX easy.
+The [overleaf.com](https://www.overleaf.com/about/features-overview) web service makes writing in LaTeX easy.
 Its one weakness of Overleaf is that it lacks support for code snippets.
 Voice In Plus offers the opportunity to overcome this limitation.
 I have mapped voice commands to several dozen LaTeX code snippets.
 
-Another approach that I have discussed in the past to overcome the absence of code snippets in Overleaf and elsewhere is to send the text area from Overleaf to one of five popular text editors via the GhostText plugin for most web browsers.
+Another approach I have discussed to overcome the absence of code snippets in Overleaf and elsewhere is to send the text area from Overleaf to one of five popular text editors via the GhostText plugin for most web browsers.
 The code snippets available in these text editors can be inserted into the text.
 
 Because only the English contraction commands may have more widespread appeal and utility, these have been segregated into a separate file available [here](https://github.com/MooersLab/voice-in-plus-contractions).
@@ -76,15 +78,15 @@ Multi-line text fragments are possible by putting the entire chunk of text betwe
 4. Open the csv file in a text editor like VS Code. Select all, copy, and then paste them into the text area of the `bulk add` window.
 5. Click the `add commands` button below the text area. The new commands will be available for use immediately.
 
-## Related repos
-See [Voice Computing](https://github.com/MooersLab/MooersLab?tab=readme-ov-file#voice-computing) section of landing page.
+## Related repositories
+See [Voice Computing](https://github.com/MooersLab/MooersLab?tab=readme-ov-file#voice-computing) section of the MooersLab landing page.
 
 ## Rules for developing voice commands
 
-### Pick word combinations rarely used in normal prose
+### Pick word combinations rarely used in ordinary prose
 The basic rule for developing a voice command is to pick a word combination that is very unlikely to be used in one's prose.
 This choice can avoid the accidental insertion of an unintended set of words.
-For example, using the voice command "to do" to insert an org-mode TODO is pretty pointless because this phrase is used frequently in my prose.
+For example, using the voice command "to do" to insert an org-mode TODO is pointless because this phrase is used frequently in my prose.
 Instead, I came up with the command ''priority'' and then the associated alphanumeric code for the priority. 
 It is pretty unlikely that I will say the command "priority A1" in my usual prose.
 
@@ -101,4 +103,7 @@ Like other forms of computer code, test the Voice In commands to ensure you get 
 The speed with which you vocalize a command has a significant impact.
 You may find that you have to verbalize the command at high speed to avoid inserting just the first word of the command rather than the entire command.
 
+|Version      | Changes                                                                                                                                    | Date                 |
+|:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
+| Version 0.2 |  Added badges and update table. Fixed all.csv so that it shows up as a table on GitHub.                                                    | 2024 April 13        |
 
