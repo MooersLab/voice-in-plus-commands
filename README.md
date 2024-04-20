@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/static/v1?label=voice-in-plus-commands&message=0.2&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=voice-in-plus-commands&message=0.3&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
@@ -7,31 +7,32 @@
 ## Purpose
 
 I share this library to help others add voice-to-text to their workflows. 
-This library will be used largely to inspire the creation of commands that are more relevant to the reader.
+This library will be mainly used to inspire the creation of commands that are more relevant to the reader.
 
 ## Disclaimer
 This is a programming tool, not an educational tool.
 
 ## Voice In vs Voice In Plus
-Voice In is a free plugin for Google Chrome that supports dictation in the text areas of web pages.
-This is where I draft most of my writing these days before pasting it into a final document.
-Voice In provides a Notepad for dictation if you do not already have a favorite alternative like 750words.com.
+*Voice In* is a free plugin for Google Chrome that supports dictation in the text areas of web pages.
+750words.com (or the free alternative writehoney.com) are distraction free environments where I draft most of my writing these days before pasting it into a final document.
+
+Voice In also provides a Notepad for dictation.
 It also works in Overleaf, Jupyter, and Colab.
 The word error is about 2-4 percent, better than most alternative dictation software.
-It does not do long hallucinations like chatbots, which I find annoying and a waste of my time.
+It does not do extended hallucinations like chatbots, which I find annoying and a waste of my time.
 
-Voice In Plus requires a modest subscription fee.
-It adds support for custom commands.
+*Voice In Plus* requires a modest subscription fee.
+It adds support for custom commands, which I find essential for reducing the word error rate and thereby reducing the downstream editing.
 
 ## Library contents
 The full version of my command library includes 
 
 - expansion of spoken contractions in English
 - expansions of acronyms
-- expansions of name of colleagues
+- expansions of names of colleagues
 - commands to open favorite web pages
 - LaTeX boilerplate
-- open specific websites in browser (e.g., `open PubMed`, `open Google Scholar`, `open PDB`, `open LBSF`, `open OCSB`, `open weather forecast`)
+- open specific websites in the browser (e.g., `open PubMed`, `open Google Scholar`, `open PDB`, `open LBSF`, `open OCSB`, `open weather forecast`)
 
 I use contractions in my speech but do not want them in my writing.
 I mapped all the contractions that I could find to their expansions.
@@ -40,13 +41,13 @@ Whenever I say a contraction, it is expanded automatically as the software trans
 It is easy to expand acronyms from memory into the wrong phrase.
 Their inclusion in the library eliminates the need to look them up more than once.
 If I say the command `expand XXX`, acronym XXX is expanded immediately after it is spoken.
-The expansions of acronyms negate the need to look them up again and again to ensure that they are correct.
+The expansions of acronyms negate the need to look them up repeatedly to ensure they are correct.
 
 I also include expansions of the names of colleagues from their first name to their full name.
 This ensures that the spelling of the last name is correct and that I do not have to look it up repeatedly.
 These types of commands were removed to protect the identity of my colleagues.
 
-I can imagine mapping voice commands to insert cite keys to standard citations for standard methods and to key equations.
+I can imagine mapping voice commands to insert citation keys to standard citations for standard methods and key equations.
 This kind of information is domain-specific and not included here.
 Instead, I have set up several domain-specific libraries in separate repositories so that users can download only those collections of voice snippets relevant to their work.
 See [Voice Computing](https://github.com/MooersLab/MooersLab?tab=readme-ov-file#voice-computing) section of the MooersLab landing page for hyperlinks to these repositories.
@@ -108,6 +109,8 @@ You may find that you have to verbalize the command at high speed to avoid inser
 |Version      | Changes                                                                                                                                    | Date                 |
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
 | Version 0.2 |  Added badges and update table. Fixed all.csv so that it shows up as a table on GitHub.                                                    | 2024 April 13        |
+| Version 0.3 |  Added funding. Edited README.md to improve clarity                                                                                        | 2024 April 20        |
+
 
 ## Funding
 - NIH: R01 CA242845, R01 AI088011
