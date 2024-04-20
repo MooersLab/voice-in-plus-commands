@@ -103,7 +103,13 @@ Like other forms of computer code, test the Voice In commands to ensure you get 
 The speed with which you vocalize a command has a significant impact.
 You may find that you have to verbalize the command at high speed to avoid inserting just the first word of the command rather than the entire command.
 
+
+## Update history
 |Version      | Changes                                                                                                                                    | Date                 |
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
 | Version 0.2 |  Added badges and update table. Fixed all.csv so that it shows up as a table on GitHub.                                                    | 2024 April 13        |
+
+## Funding
+- NIH: R01 CA242845, R01 AI088011
+- NIH: P30 CA225520 (PI: R. Mannel); P20GM103640 and P30GM145423 (PI: A. West)
 
